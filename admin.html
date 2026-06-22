@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administração - Caratininga</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="bg-slate-50 min-h-screen flex flex-col md:flex-row">
+
+    <!-- Sidebar -->
+    <aside id="sidebar" class="w-full md:w-64 bg-[#003d33] text-white flex flex-col shadow-xl md:h-screen md:sticky md:top-0 hidden md:flex">
+        <div class="p-6">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-white rounded-lg flex items-center justify-center p-1 text-[#003d33]">
+                    <i data-lucide="package-open" stroke-width="2.5"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl font-bold tracking-wide">CARATININGA</h1>
+                    <p class="text-[#00a86b] text-xs font-semibold tracking-wider">TRANSFERÊNCIAS</p>
+                </div>
+            </div>
+        </div>
+
+        <nav class="flex-1 px-4 space-y-1.5 overflow-y-auto">
+            <div class="text-xs font-bold text-white/40 uppercase tracking-wider mb-2 px-4 mt-2">Principal</div>
+            
+            <a href="dashboard.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="layout-dashboard" class="w-5 h-5"></i>
+                <span>Dashboard</span>
+            </a>
+            <a href="nova-transferencia.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="arrow-right-left" class="w-5 h-5"></i>
+                <span>Nova Transferência</span>
+            </a>
+            <a href="relatorios.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="bar-chart-2" class="w-5 h-5"></i>
+                <span>Relatórios</span>
+            </a>
+
+            <div class="text-xs font-bold text-white/40 uppercase tracking-wider mb-2 px-4 mt-8 pt-4 border-t border-white/5">Sistema</div>
+            
+            <a href="admin.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors bg-white/10 text-[#00a86b] font-bold">
+                <i data-lucide="settings" class="w-5 h-5"></i>
+                <span>Administração</span>
+            </a>
+        </nav>
+
+        <div class="p-4 mt-auto border-t border-white/10">
+            <div class="flex items-center gap-3 px-4 py-3 mb-2 bg-black/20 rounded-lg">
+                <div id="user-initials-display" class="w-8 h-8 rounded-full bg-[#00a86b] flex items-center justify-center text-white font-bold">U</div>
+                <div class="flex-1 overflow-hidden">
+                    <p id="user-name-display" class="text-sm font-medium truncate">Usuário</p>
+                    <p id="user-email-display" class="text-xs text-slate-400 truncate">email@exemplo.com</p>
+                </div>
+            </div>
+            <button id="logout-btn" class="w-full flex items-center justify-center gap-2 px-4 py-2 text-sm text-red-400 hover:text-red-300 hover:bg-red-400/10 rounded-lg transition-colors">
+                <i data-lucide="log-out" class="w-4 h-4"></i>
+                Sair do Sistema
+            </button>
+        </div>
+    </aside>
+
+    <!-- Mobile Header -->
+    <div class="md:hidden bg-[#003d33] text-white p-4 flex items-center justify-between shadow-md">
+        <div class="flex items-center gap-2">
+            <div class="w-8 h-8 bg-white rounded-md flex items-center justify-center text-[#003d33]">
+                <i data-lucide="package-open" class="w-5 h-5" stroke-width="2.5"></i>
+            </div>
+            <h1 class="text-lg font-bold tracking-wide">CARATININGA</h1>
+        </div>
+        <button id="mobile-menu-toggle" class="p-2 hover:bg-white/10 rounded-lg transition-colors">
+            <i data-lucide="menu" class="w-6 h-6"></i>
+        </button>
+    </div>
+
+    <!-- Main Content -->
+    <main class="flex-1 p-6 md:p-8 overflow-auto">
+        <div class="max-w-7xl mx-auto space-y-6">
+            <div>
+                <h1 class="text-2xl font-bold text-slate-800">Administração</h1>
+                <p class="text-slate-500">Gerencie o catálogo de produtos e os agrupamentos</p>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+                <div class="p-6 border-b border-slate-100 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div>
+                        <h2 class="font-bold text-slate-800 text-lg">Catálogo de Produtos</h2>
+                        <p class="text-sm text-slate-500">Associe produtos aos grupos para os relatórios</p>
+                    </div>
+                    
+                    <div class="flex gap-2">
+                        <button id="btn-add" class="bg-[#00a86b] hover:bg-[#008f5a] text-white px-4 py-2 rounded-lg font-bold flex items-center gap-2 transition-colors">
+                            <i data-lucide="plus" class="w-4 h-4"></i> Novo Item
+                        </button>
+                    </div>
+                </div>
+
+                <div class="p-4 bg-slate-50 border-b border-slate-200 flex items-center gap-4">
+                    <div class="relative flex-1 max-w-md">
+                        <i data-lucide="search" class="w-5 h-5 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2"></i>
+                        <input type="text" id="search-input" placeholder="Buscar por código ou produto..." class="w-full pl-10 pr-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none">
+                    </div>
+                </div>
+
+                <div class="overflow-x-auto max-h-[60vh]">
+                    <table class="w-full text-sm text-left">
+                        <thead class="text-xs text-slate-500 uppercase bg-slate-100 sticky top-0 shadow-sm">
+                            <tr>
+                                <th class="px-6 py-3">Código</th>
+                                <th class="px-6 py-3">Produto</th>
+                                <th class="px-6 py-3">Grupo / Categoria</th>
+                                <th class="px-6 py-3 text-right">Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody id="catalog-tbody" class="divide-y divide-slate-100">
+                            <tr><td colspan="4" class="p-8 text-center text-slate-500">Carregando catálogo...</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal Form -->
+    <div id="form-modal" class="fixed inset-0 bg-slate-900/50 backdrop-blur-sm z-50 flex items-center justify-center p-4 hidden">
+        <div class="bg-white rounded-2xl p-6 max-w-md w-full shadow-xl">
+            <h3 id="modal-title" class="text-lg font-bold text-slate-800 mb-4">Adicionar ao Catálogo</h3>
+            <form id="catalog-form" class="space-y-4">
+                <input type="hidden" id="form-id">
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Código (Opcional se buscar por nome)</label>
+                    <input type="text" id="form-code" class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Nome do Produto</label>
+                    <input type="text" id="form-name" required class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Grupo / Categoria</label>
+                    <input type="text" id="form-group" required class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none" placeholder="Ex: BEBIDAS">
+                </div>
+                <div class="pt-4 flex justify-end gap-3">
+                    <button type="button" id="btn-cancel" class="px-4 py-2 text-slate-600 font-bold hover:bg-slate-100 rounded-lg">Cancelar</button>
+                    <button type="submit" id="btn-save" class="px-6 py-2 bg-[#00a86b] hover:bg-[#008f5a] text-white font-bold rounded-lg flex items-center gap-2">
+                        <i data-lucide="save" class="w-4 h-4"></i> Salvar
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>lucide.createIcons();</script>
+    <script type="module" src="./js/admin.js"></script>
+</body>
+</html>

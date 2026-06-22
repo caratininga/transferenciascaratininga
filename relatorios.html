@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relatórios - Caratininga</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        .tab-active { border-color: #00a86b; color: #00a86b; background-color: white; }
+        .tab-inactive { border-color: transparent; color: #64748b; }
+        .tab-inactive:hover { color: #334155; background-color: #f8fafc; }
+    </style>
+</head>
+<body class="bg-slate-50 min-h-screen flex flex-col md:flex-row">
+
+    <!-- Sidebar -->
+    <aside id="sidebar" class="w-full md:w-64 bg-[#003d33] text-white flex flex-col shadow-xl md:h-screen md:sticky md:top-0 hidden md:flex">
+        <div class="p-6">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-white rounded-lg flex items-center justify-center p-1 text-[#003d33]">
+                    <i data-lucide="package-open" stroke-width="2.5"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl font-bold tracking-wide">CARATININGA</h1>
+                    <p class="text-[#00a86b] text-xs font-semibold tracking-wider">TRANSFERÊNCIAS</p>
+                </div>
+            </div>
+        </div>
+
+        <nav class="flex-1 px-4 space-y-1.5 overflow-y-auto">
+            <div class="text-xs font-bold text-white/40 uppercase tracking-wider mb-2 px-4 mt-2">Principal</div>
+            
+            <a href="dashboard.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="layout-dashboard" class="w-5 h-5"></i>
+                <span>Dashboard</span>
+            </a>
+            <a href="nova-transferencia.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="arrow-right-left" class="w-5 h-5"></i>
+                <span>Nova Transferência</span>
+            </a>
+            <a href="relatorios.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors bg-white/10 text-[#00a86b] font-bold">
+                <i data-lucide="bar-chart-2" class="w-5 h-5"></i>
+                <span>Relatórios</span>
+            </a>
+
+            <div class="text-xs font-bold text-white/40 uppercase tracking-wider mb-2 px-4 mt-8 pt-4 border-t border-white/5">Sistema</div>
+            
+            <a href="admin.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="settings" class="w-5 h-5"></i>
+                <span>Administração</span>
+            </a>
+        </nav>
+
+        <div class="p-4 mt-auto border-t border-white/10">
+            <div class="flex items-center gap-3 px-4 py-3 mb-2 bg-black/20 rounded-lg">
+                <div id="user-initials-display" class="w-8 h-8 rounded-full bg-[#00a86b] flex items-center justify-center text-white font-bold">U</div>
+                <div class="flex-1 overflow-hidden">
+                    <p id="user-name-display" class="text-sm font-medium truncate">Usuário</p>
+                    <p id="user-email-display" class="text-xs text-slate-400 truncate">email@exemplo.com</p>
+                </div>
+            </div>
+            <button id="logout-btn" class="w-full flex items-center justify-center gap-2 px-4 py-2 text-sm text-red-400 hover:text-red-300 hover:bg-red-400/10 rounded-lg transition-colors">
+                <i data-lucide="log-out" class="w-4 h-4"></i>
+                Sair do Sistema
+            </button>
+        </div>
+    </aside>
+
+    <!-- Mobile Header -->
+    <div class="md:hidden bg-[#003d33] text-white p-4 flex items-center justify-between shadow-md">
+        <div class="flex items-center gap-2">
+            <div class="w-8 h-8 bg-white rounded-md flex items-center justify-center text-[#003d33]">
+                <i data-lucide="package-open" class="w-5 h-5" stroke-width="2.5"></i>
+            </div>
+            <h1 class="text-lg font-bold tracking-wide">CARATININGA</h1>
+        </div>
+        <button id="mobile-menu-toggle" class="p-2 hover:bg-white/10 rounded-lg transition-colors">
+            <i data-lucide="menu" class="w-6 h-6"></i>
+        </button>
+    </div>
+
+    <!-- Main Content -->
+    <main class="flex-1 p-6 md:p-8 overflow-auto">
+        <div class="max-w-7xl mx-auto space-y-6">
+            <div>
+                <h1 class="text-2xl font-bold text-slate-800">Relatório de Transferências</h1>
+                <p class="text-slate-500">Agrupamento consolidado baseado na Planilha BackOffice</p>
+            </div>
+
+            <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+                <div class="flex border-b border-slate-200">
+                    <button id="tab-individual" class="flex-1 py-4 text-sm font-bold flex items-center justify-center gap-2 border-b-2 transition-colors tab-active">
+                        <i data-lucide="filter" class="w-4 h-4"></i>
+                        Visão por Loja
+                    </button>
+                    <button id="tab-comparative" class="flex-1 py-4 text-sm font-bold flex items-center justify-center gap-2 border-b-2 transition-colors tab-inactive">
+                        <i data-lucide="bar-chart-2" class="w-4 h-4"></i>
+                        Análise Geral (Todas Lojas)
+                    </button>
+                </div>
+
+                <div class="p-6 bg-slate-50 flex flex-wrap gap-4 items-end border-b border-slate-200">
+                    <div id="filter-location-container" class="w-full sm:w-48">
+                        <label class="block text-sm font-medium text-slate-700 mb-1 flex items-center gap-2">
+                            <i data-lucide="filter" class="w-4 h-4"></i> Loja Destino
+                        </label>
+                        <select id="filter-location" class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none">
+                            <option value="Matriz">Matriz</option>
+                            <option value="Mucambo">Mucambo</option>
+                            <option value="Tianguá">Tianguá</option>
+                            <option value="Frecheirinha">Frecheirinha</option>
+                        </select>
+                    </div>
+                    
+                    <div class="w-full sm:w-48">
+                        <label class="block text-sm font-medium text-slate-700 mb-1 flex items-center gap-2">
+                            <i data-lucide="calendar" class="w-4 h-4"></i> Mês de Ref.
+                        </label>
+                        <input type="month" id="filter-month" class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none">
+                    </div>
+
+                    <div class="w-full sm:w-48">
+                        <label class="block text-sm font-medium text-slate-700 mb-1 flex items-center gap-2">
+                            <i data-lucide="package" class="w-4 h-4"></i> Filtrar Unidade
+                        </label>
+                        <select id="filter-unit" class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none">
+                            <option value="TODAS">Todas</option>
+                            <!-- Dynamic -->
+                        </select>
+                    </div>
+
+                    <div class="w-full sm:w-48">
+                        <label class="block text-sm font-medium text-slate-700 mb-1 flex items-center gap-2">
+                            <i data-lucide="arrow-down-up" class="w-4 h-4"></i> Ordenar por
+                        </label>
+                        <select id="filter-sort" class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none">
+                            <option value="valor">Maior Valor (R$)</option>
+                            <option value="quantidade">Maior Quantidade</option>
+                            <option value="alfabetica">Ordem Alfabética</option>
+                        </select>
+                    </div>
+
+                    <div class="w-full sm:w-auto flex items-center pb-2">
+                        <label class="flex items-center gap-2 cursor-pointer text-sm font-bold text-slate-700 hover:text-slate-900 transition-colors">
+                            <input type="checkbox" id="filter-group" checked class="w-4 h-4 text-[#00a86b] rounded border-slate-300 focus:ring-[#00a86b]">
+                            Agrupar por Categoria
+                        </label>
+                    </div>
+                    
+                    <button id="btn-refresh" class="bg-white hover:bg-slate-100 text-slate-700 font-bold py-2 px-6 rounded-lg transition-colors border border-slate-300 shadow-sm ml-auto w-full sm:w-auto flex items-center justify-center gap-2">
+                        <i data-lucide="refresh-cw" class="w-4 h-4"></i> Atualizar Dados
+                    </button>
+                </div>
+            </div>
+
+            <!-- View Container -->
+            <div id="report-view-container">
+                <!-- Content generated by JS -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal Product Details -->
+    <div id="product-modal" class="fixed inset-0 bg-slate-900/50 backdrop-blur-sm z-50 flex items-center justify-center p-4 hidden">
+        <div class="bg-white rounded-2xl w-full max-w-2xl max-h-[90vh] flex flex-col shadow-xl" id="product-modal-content">
+            <div class="p-6 border-b border-slate-100 flex justify-between items-center bg-slate-50 rounded-t-2xl">
+                <div>
+                    <h3 id="modal-product-name" class="text-lg font-bold text-slate-800"></h3>
+                    <p id="modal-product-code" class="text-sm text-slate-500 font-mono"></p>
+                </div>
+                <button id="close-product-modal" class="p-2 hover:bg-slate-200 rounded-full transition-colors">
+                    <i data-lucide="x" class="w-5 h-5 text-slate-500"></i>
+                </button>
+            </div>
+            <div class="p-6 overflow-y-auto">
+                <div id="modal-anomaly-alert" class="mb-6 bg-red-50 border border-red-200 text-red-800 p-4 rounded-xl flex gap-3 hidden">
+                    <i data-lucide="alert-triangle" class="w-6 h-6 text-red-600 flex-shrink-0 mt-0.5"></i>
+                    <div>
+                        <h4 class="font-bold text-red-900">Divergência de Preço Detectada</h4>
+                        <p class="text-sm mt-1 text-red-700">Este item apresentou uma variação maior que 30% no valor unitário em diferentes remessas. Verifique o histórico abaixo para auditar os valores.</p>
+                    </div>
+                </div>
+
+                <h4 class="font-bold text-slate-700 mb-4 flex items-center gap-2">
+                    <i data-lucide="history" class="w-4 h-4"></i>
+                    Histórico de Remessas
+                </h4>
+                
+                <div class="overflow-x-auto border border-slate-200 rounded-lg">
+                    <table class="w-full text-sm text-left">
+                        <thead class="text-xs text-slate-500 uppercase bg-slate-50">
+                            <tr>
+                                <th class="px-4 py-3 font-semibold">Data</th>
+                                <th class="px-4 py-3 font-semibold">Origem</th>
+                                <th class="px-4 py-3 font-semibold text-right">Qtd</th>
+                                <th class="px-4 py-3 font-semibold text-right">Unitário</th>
+                                <th class="px-4 py-3 font-semibold text-right">Total</th>
+                            </tr>
+                        </thead>
+                        <tbody id="modal-history-tbody" class="divide-y divide-slate-100">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>lucide.createIcons();</script>
+    <script type="module" src="./js/reports.js"></script>
+</body>
+</html>

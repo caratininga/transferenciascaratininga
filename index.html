@@ -1,15 +1,61 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="theme-color" content="#003d33">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/png" href="./icon.png?v=2" />
-    <title>Transferências Caratininga</title>
-    <script type="module" crossorigin src="./assets/index-BdOsY1D4.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-B14z16nP.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Transferências Caratininga</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="bg-slate-50 min-h-screen flex items-center justify-center p-4">
+
+    <div class="max-w-md w-full bg-white rounded-2xl shadow-xl overflow-hidden">
+        <div class="bg-[#003d33] p-8 text-center">
+            <div class="w-16 h-16 bg-white rounded-xl mx-auto flex items-center justify-center mb-4">
+                <i data-lucide="package-open" class="text-[#003d33] w-10 h-10" stroke-width="2.5"></i>
+            </div>
+            <h1 class="text-2xl font-bold text-white tracking-wide">CARATININGA</h1>
+            <p class="text-[#00a86b] font-semibold tracking-wider text-sm mt-1">SISTEMA DE TRANSFERÊNCIAS</p>
+        </div>
+
+        <div class="p-8">
+            <h2 class="text-xl font-bold text-slate-800 mb-6 text-center">Acesso ao Sistema</h2>
+            
+            <form id="login-form" class="space-y-5">
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">E-mail</label>
+                    <div class="relative">
+                        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                            <i data-lucide="mail" class="text-slate-400 w-5 h-5"></i>
+                        </div>
+                        <input id="email" type="email" required class="w-full pl-10 pr-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none" placeholder="seu@email.com">
+                    </div>
+                </div>
+
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Senha</label>
+                    <div class="relative">
+                        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                            <i data-lucide="lock" class="text-slate-400 w-5 h-5"></i>
+                        </div>
+                        <input id="password" type="password" required class="w-full pl-10 pr-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-[#00a86b] outline-none" placeholder="••••••••">
+                    </div>
+                </div>
+
+                <div id="error-msg" class="hidden bg-red-50 text-red-600 p-3 rounded-lg text-sm flex gap-2 items-center">
+                    <i data-lucide="alert-circle" class="w-4 h-4 flex-shrink-0"></i>
+                    <span id="error-text">Credenciais inválidas.</span>
+                </div>
+
+                <button id="submit-btn" type="submit" class="w-full bg-[#00a86b] hover:bg-[#008f5a] text-white font-bold py-3 px-4 rounded-lg transition-colors flex justify-center items-center gap-2">
+                    <i data-lucide="log-in" class="w-5 h-5"></i>
+                    Entrar no Sistema
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <script>lucide.createIcons();</script>
+    <script type="module" src="./js/login.js"></script>
+</body>
 </html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Transferências Caratininga</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="bg-slate-50 min-h-screen flex flex-col md:flex-row">
+
+    <!-- Sidebar -->
+    <aside id="sidebar" class="w-full md:w-64 bg-[#003d33] text-white flex flex-col shadow-xl md:h-screen md:sticky md:top-0 hidden md:flex">
+        <div class="p-6">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-white rounded-lg flex items-center justify-center p-1 text-[#003d33]">
+                    <i data-lucide="package-open" stroke-width="2.5"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl font-bold tracking-wide">CARATININGA</h1>
+                    <p class="text-[#00a86b] text-xs font-semibold tracking-wider">TRANSFERÊNCIAS</p>
+                </div>
+            </div>
+        </div>
+
+        <nav class="flex-1 px-4 space-y-1.5 overflow-y-auto">
+            <div class="text-xs font-bold text-white/40 uppercase tracking-wider mb-2 px-4 mt-2">Principal</div>
+            
+            <a href="dashboard.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors bg-white/10 text-[#00a86b] font-bold">
+                <i data-lucide="layout-dashboard" class="w-5 h-5"></i>
+                <span>Dashboard</span>
+            </a>
+            <a href="nova-transferencia.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="arrow-right-left" class="w-5 h-5"></i>
+                <span>Nova Transferência</span>
+            </a>
+            <a href="relatorios.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="bar-chart-2" class="w-5 h-5"></i>
+                <span>Relatórios</span>
+            </a>
+
+            <div class="text-xs font-bold text-white/40 uppercase tracking-wider mb-2 px-4 mt-8 pt-4 border-t border-white/5">Sistema</div>
+            
+            <a href="admin.html" class="flex items-center gap-3 px-4 py-3 rounded-lg transition-colors hover:bg-white/5 text-slate-300 hover:text-white">
+                <i data-lucide="settings" class="w-5 h-5"></i>
+                <span>Administração</span>
+            </a>
+        </nav>
+
+        <div class="p-4 mt-auto border-t border-white/10">
+            <div class="flex items-center gap-3 px-4 py-3 mb-2 bg-black/20 rounded-lg">
+                <div id="user-initials-display" class="w-8 h-8 rounded-full bg-[#00a86b] flex items-center justify-center text-white font-bold">U</div>
+                <div class="flex-1 overflow-hidden">
+                    <p id="user-name-display" class="text-sm font-medium truncate">Usuário</p>
+                    <p id="user-email-display" class="text-xs text-slate-400 truncate">email@exemplo.com</p>
+                </div>
+            </div>
+            <button id="logout-btn" class="w-full flex items-center justify-center gap-2 px-4 py-2 text-sm text-red-400 hover:text-red-300 hover:bg-red-400/10 rounded-lg transition-colors">
+                <i data-lucide="log-out" class="w-4 h-4"></i>
+                Sair do Sistema
+            </button>
+        </div>
+    </aside>
+
+    <!-- Mobile Header -->
+    <div class="md:hidden bg-[#003d33] text-white p-4 flex items-center justify-between shadow-md">
+        <div class="flex items-center gap-2">
+            <div class="w-8 h-8 bg-white rounded-md flex items-center justify-center text-[#003d33]">
+                <i data-lucide="package-open" class="w-5 h-5" stroke-width="2.5"></i>
+            </div>
+            <h1 class="text-lg font-bold tracking-wide">CARATININGA</h1>
+        </div>
+        <button id="mobile-menu-toggle" class="p-2 hover:bg-white/10 rounded-lg transition-colors">
+            <i data-lucide="menu" class="w-6 h-6"></i>
+        </button>
+    </div>
+
+    <!-- Main Content -->
+    <main class="flex-1 p-6 md:p-8 overflow-auto">
+        <div class="max-w-7xl mx-auto space-y-6">
+            <div>
+                <h1 class="text-2xl font-bold text-slate-800">Painel Geral</h1>
+                <p class="text-slate-500">Resumo de transferências do mês atual</p>
+            </div>
+
+            <!-- Stats grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="stats-grid">
+                <!-- Loaded dynamically by JS -->
+                <div class="col-span-4 text-center py-12 text-slate-500">Carregando dados...</div>
+            </div>
+
+            <!-- Recent list -->
+            <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden mt-8">
+                <div class="p-4 border-b border-slate-100 flex justify-between items-center bg-slate-50">
+                    <h2 class="font-bold text-slate-700 flex items-center gap-2">
+                        <i data-lucide="history" class="w-5 h-5 text-slate-400"></i>
+                        Últimas Transferências
+                    </h2>
+                    <a href="relatorios.html" class="text-sm font-medium text-[#00a86b] hover:text-[#008f5a]">Ver todas &rarr;</a>
+                </div>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-sm text-left">
+                        <thead class="text-xs text-slate-500 uppercase bg-slate-50">
+                            <tr>
+                                <th class="px-6 py-3 font-semibold">Data/Hora</th>
+                                <th class="px-6 py-3 font-semibold">Usuário</th>
+                                <th class="px-6 py-3 font-semibold">Origem &rarr; Destino</th>
+                                <th class="px-6 py-3 font-semibold text-right">Qtd. Itens</th>
+                            </tr>
+                        </thead>
+                        <tbody id="recent-transfers-table" class="divide-y divide-slate-100">
+                            <tr>
+                                <td colspan="4" class="px-6 py-8 text-center text-slate-500">Carregando histórico...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>lucide.createIcons();</script>
+    <script type="module" src="./js/dashboard.js"></script>
+</body>
+</html>

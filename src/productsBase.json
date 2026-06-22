@@ -1,0 +1,6104 @@
+[
+  {
+    "Produto": "1-AGUA SEM GAS 500ML",
+    "Código": 1,
+    "Descrição": "AGUA SEM GAS 500ML",
+    "Grupo": "AGUAS"
+  },
+  {
+    "Produto": "2-AGUA SEM GAS 1,5L",
+    "Código": 2,
+    "Descrição": "AGUA SEM GAS 1,5L",
+    "Grupo": "AGUAS"
+  },
+  {
+    "Produto": "3-AGUA COM GAS 500ML",
+    "Código": 3,
+    "Descrição": "AGUA COM GAS 500ML",
+    "Grupo": "AGUAS"
+  },
+  {
+    "Produto": "4-AGUA DE COCO",
+    "Código": 4,
+    "Descrição": "AGUA DE COCO",
+    "Grupo": "AGUAS"
+  },
+  {
+    "Produto": "5-AGUA TONICA ANTARCTICA 350ML",
+    "Código": 5,
+    "Descrição": "AGUA TONICA ANTARCTICA 350ML",
+    "Grupo": "AGUAS"
+  },
+  {
+    "Produto": "6-AGUA TONICA SCHWEPPES 350ML",
+    "Código": 6,
+    "Descrição": "AGUA TONICA SCHWEPPES 350ML",
+    "Grupo": "AGUAS"
+  },
+  {
+    "Produto": "7-SUCO LARANJA 1100ML",
+    "Código": 7,
+    "Descrição": "SUCO LARANJA 1100ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "8-SUCO LARANJA 750ML",
+    "Código": 8,
+    "Descrição": "SUCO LARANJA 750ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "9-SUCO LARANJA 350ML",
+    "Código": 9,
+    "Descrição": "SUCO LARANJA 350ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "10-SUCO ABACAXI 1100ML",
+    "Código": 10,
+    "Descrição": "SUCO ABACAXI 1100ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "11-SUCO ABACAXI 750ML",
+    "Código": 11,
+    "Descrição": "SUCO ABACAXI 750ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "12-SUCO ABACAXI 350ML",
+    "Código": 12,
+    "Descrição": "SUCO ABACAXI 350ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "13-SUCO LIMAO 1100ML",
+    "Código": 13,
+    "Descrição": "SUCO LIMAO 1100ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "14-SUCO LIMAO 750ML",
+    "Código": 14,
+    "Descrição": "SUCO LIMAO 750ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "15-SUCO LIMAO 350ML",
+    "Código": 15,
+    "Descrição": "SUCO LIMAO 350ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "16-SUCO MARACUJA 1100ML",
+    "Código": 16,
+    "Descrição": "SUCO MARACUJA 1100ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "17-SUCO MARACUJA 750ML",
+    "Código": 17,
+    "Descrição": "SUCO MARACUJA 750ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "18-SUCO MARACUJA 350ML",
+    "Código": 18,
+    "Descrição": "SUCO MARACUJA 350ML",
+    "Grupo": "SUCOS NATURAIS"
+  },
+  {
+    "Produto": "19-COQUETEL DE FRUTAS SEM ALCOOL",
+    "Código": 19,
+    "Descrição": "COQUETEL DE FRUTAS SEM ALCOOL",
+    "Grupo": "COQUETEIS SEM ALCOOL"
+  },
+  {
+    "Produto": "20-CAJUINA SAO GERALDO 2L",
+    "Código": 20,
+    "Descrição": "CAJUINA SAO GERALDO 2L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "21-CAJUINA SAO GERALDO 1L",
+    "Código": 21,
+    "Descrição": "CAJUINA SAO GERALDO 1L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "22-CAJUINA SAO GERALDO 600ML",
+    "Código": 22,
+    "Descrição": "CAJUINA SAO GERALDO 600ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "23-COCA-COLA 2L",
+    "Código": 23,
+    "Descrição": "COCA-COLA 2L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "24-COCA-COLA LS 1L",
+    "Código": 24,
+    "Descrição": "COCA-COLA LS 1L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "25-COCA-COLA 600ML",
+    "Código": 25,
+    "Descrição": "COCA-COLA 600ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "26-COCA-COLA LATA 350ML",
+    "Código": 26,
+    "Descrição": "COCA-COLA LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "27-COCA-COLA ZERO LATA 350ML",
+    "Código": 27,
+    "Descrição": "COCA-COLA ZERO LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "28-COCA-COLA KS 290ML",
+    "Código": 28,
+    "Descrição": "COCA-COLA KS 290ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "29-DELRIO GUARANA 2L",
+    "Código": 29,
+    "Descrição": "DELRIO GUARANA 2L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "30-DELRIO GUARANA 1L",
+    "Código": 30,
+    "Descrição": "DELRIO GUARANA 1L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "31-DELRIO LARANJA 2L",
+    "Código": 31,
+    "Descrição": "DELRIO LARANJA 2L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "32-GUARANA ANTARCTICA 2L",
+    "Código": 32,
+    "Descrição": "GUARANA ANTARCTICA 2L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "33-GUARANA ANTARCTICA 1L",
+    "Código": 33,
+    "Descrição": "GUARANA ANTARCTICA 1L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "34-GUARANA ANTARCTICA LATA 350ML",
+    "Código": 34,
+    "Descrição": "GUARANA ANTARCTICA LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "35-GUARANA KUAT LATA 350ML",
+    "Código": 35,
+    "Descrição": "GUARANA KUAT LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "36-FANTA LARANJA LATA 350ML",
+    "Código": 36,
+    "Descrição": "FANTA LARANJA LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "37-FANTA UVA LATA 350ML",
+    "Código": 37,
+    "Descrição": "FANTA UVA LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "38-PEPSI ZERO LATA 350ML",
+    "Código": 38,
+    "Descrição": "PEPSI ZERO LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "39-SCHWEPPES CITRUS LATA 350ML",
+    "Código": 39,
+    "Descrição": "SCHWEPPES CITRUS LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "40-SPRITE LATA 350ML",
+    "Código": 40,
+    "Descrição": "SPRITE LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "41-SUKITA 2L",
+    "Código": 41,
+    "Descrição": "SUKITA 2L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "42-AQUARIUS FRESH",
+    "Código": 42,
+    "Descrição": "AQUARIUS FRESH",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "43-H2O",
+    "Código": 43,
+    "Descrição": "H2O",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "44-ENERG MONSTER LATA 269ML",
+    "Código": 44,
+    "Descrição": "ENERG MONSTER LATA 269ML",
+    "Grupo": "ENERGETICOS"
+  },
+  {
+    "Produto": "45-ENERG RED BULL LATA 269ML",
+    "Código": 45,
+    "Descrição": "ENERG RED BULL LATA 269ML",
+    "Grupo": "ENERGETICOS"
+  },
+  {
+    "Produto": "46-AMSTEL 600ML",
+    "Código": 46,
+    "Descrição": "AMSTEL 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "47-ANTARCTICA ORIGINAL 600ML",
+    "Código": 47,
+    "Descrição": "ANTARCTICA ORIGINAL 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "48-BRAHMA CHOPP 600ML",
+    "Código": 48,
+    "Descrição": "BRAHMA CHOPP 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "49-BRAHMA DUPLO MALTE 600ML",
+    "Código": 49,
+    "Descrição": "BRAHMA DUPLO MALTE 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "50-BOHEMIA 600ML",
+    "Código": 50,
+    "Descrição": "BOHEMIA 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "51-BUDWEISER 600ML",
+    "Código": 51,
+    "Descrição": "BUDWEISER 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "52-EISENBAHN 600ML",
+    "Código": 52,
+    "Descrição": "EISENBAHN 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "53-HEINEKEN 600ML",
+    "Código": 53,
+    "Descrição": "HEINEKEN 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "54-HEINEKEN LN 330ML",
+    "Código": 54,
+    "Descrição": "HEINEKEN LN 330ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "55-HEINEKEN LN ZERO 330ML",
+    "Código": 55,
+    "Descrição": "HEINEKEN LN ZERO 330ML",
+    "Grupo": "CERVEJAS ZERO ALCOOL"
+  },
+  {
+    "Produto": "56-ITAIPAVA 600ML",
+    "Código": 56,
+    "Descrição": "ITAIPAVA 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "57-PETRA 600ML",
+    "Código": 57,
+    "Descrição": "PETRA 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "58-SKOL 600ML",
+    "Código": 58,
+    "Descrição": "SKOL 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "59-SPATEN 600ML",
+    "Código": 59,
+    "Descrição": "SPATEN 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "60-CAIPIFRUTA PISCINAO",
+    "Código": 60,
+    "Descrição": "CAIPIFRUTA PISCINAO",
+    "Grupo": "CAIPIVODKAS PISCINAO"
+  },
+  {
+    "Produto": "61-CAIPIRINHA DE ABACAXI",
+    "Código": 61,
+    "Descrição": "CAIPIRINHA DE ABACAXI",
+    "Grupo": "CAIPIRINHAS"
+  },
+  {
+    "Produto": "62-CAIPIRINHA DE LIMAO",
+    "Código": 62,
+    "Descrição": "CAIPIRINHA DE LIMAO",
+    "Grupo": "CAIPIRINHAS"
+  },
+  {
+    "Produto": "63-CAIPIRINHA DE MARACUJA",
+    "Código": 63,
+    "Descrição": "CAIPIRINHA DE MARACUJA",
+    "Grupo": "CAIPIRINHAS"
+  },
+  {
+    "Produto": "64-CAIPIRINHA DE MORANGO",
+    "Código": 64,
+    "Descrição": "CAIPIRINHA DE MORANGO",
+    "Grupo": "CAIPIRINHAS"
+  },
+  {
+    "Produto": "65-CAIPIVODKA ABACAXI",
+    "Código": 65,
+    "Descrição": "CAIPIVODKA ABACAXI",
+    "Grupo": "CAIPIVODKAS"
+  },
+  {
+    "Produto": "66-CAIPIVODKA LIMAO",
+    "Código": 66,
+    "Descrição": "CAIPIVODKA LIMAO",
+    "Grupo": "CAIPIVODKAS"
+  },
+  {
+    "Produto": "67-CAIPIVODKA MARACUJA",
+    "Código": 67,
+    "Descrição": "CAIPIVODKA MARACUJA",
+    "Grupo": "CAIPIVODKAS"
+  },
+  {
+    "Produto": "68-CAIPIVODKA MORANGO",
+    "Código": 68,
+    "Descrição": "CAIPIVODKA MORANGO",
+    "Grupo": "CAIPIVODKAS"
+  },
+  {
+    "Produto": "69-CAIPIVODKA MORANGO SMIRNOFF",
+    "Código": 69,
+    "Descrição": "CAIPIVODKA MORANGO SMIRNOFF",
+    "Grupo": "CAIPIVODKAS"
+  },
+  {
+    "Produto": "70-CAIPIVODKA ABSOLUT",
+    "Código": 70,
+    "Descrição": "CAIPIVODKA ABSOLUT",
+    "Grupo": "CAIPIVODKAS"
+  },
+  {
+    "Produto": "71-COQUETEL DE FRUTAS COM ALCOOL",
+    "Código": 71,
+    "Descrição": "COQUETEL DE FRUTAS COM ALCOOL",
+    "Grupo": "COQUETEIS COM ALCOOL"
+  },
+  {
+    "Produto": "72-COQUETEL DE FRUTAS COM ABSOLUT",
+    "Código": 72,
+    "Descrição": "COQUETEL DE FRUTAS COM ABSOLUT",
+    "Grupo": "COQUETEIS COM ALCOOL"
+  },
+  {
+    "Produto": "73-GIN TONICA",
+    "Código": 73,
+    "Descrição": "GIN TONICA",
+    "Grupo": "DRINKS OUTROS"
+  },
+  {
+    "Produto": "74-LAGOA AZUL",
+    "Código": 74,
+    "Descrição": "LAGOA AZUL",
+    "Grupo": "DRINKS OUTROS"
+  },
+  {
+    "Produto": "75-MARGARITA",
+    "Código": 75,
+    "Descrição": "MARGARITA",
+    "Grupo": "DRINKS OUTROS"
+  },
+  {
+    "Produto": "76-PINA COLADA",
+    "Código": 76,
+    "Descrição": "PINA COLADA",
+    "Grupo": "DRINKS OUTROS"
+  },
+  {
+    "Produto": "77-APERITIVO CAMPARI GF",
+    "Código": 77,
+    "Descrição": "APERITIVO CAMPARI GF",
+    "Grupo": "GARRAFAS APERITIVAS"
+  },
+  {
+    "Produto": "78-DOSE APERITIVO CAMPARI",
+    "Código": 78,
+    "Descrição": "DOSE APERITIVO CAMPARI",
+    "Grupo": "DOSES APERITIVAS"
+  },
+  {
+    "Produto": "79-CACHACA 51 OURO GF",
+    "Código": 79,
+    "Descrição": "CACHACA 51 OURO GF",
+    "Grupo": "GARRAFAS CACHACAS"
+  },
+  {
+    "Produto": "80-DOSE CACHACA 51 OURO",
+    "Código": 80,
+    "Descrição": "DOSE CACHACA 51 OURO",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "81-CACHACA 51 PRATA GF",
+    "Código": 81,
+    "Descrição": "CACHACA 51 PRATA GF",
+    "Grupo": "GARRAFAS CACHACAS"
+  },
+  {
+    "Produto": "82-DOSE CACHACA 51 PRATA",
+    "Código": 82,
+    "Descrição": "DOSE CACHACA 51 PRATA",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "83-CACHACA VELHO BARREIRO GF",
+    "Código": 83,
+    "Descrição": "CACHACA VELHO BARREIRO GF",
+    "Grupo": "GARRAFAS CACHACAS"
+  },
+  {
+    "Produto": "84-DOSE CACHACA VELHO BARREIRO",
+    "Código": 84,
+    "Descrição": "DOSE CACHACA VELHO BARREIRO",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "85-CACHACA YPIOCA 150 GF",
+    "Código": 85,
+    "Descrição": "CACHACA YPIOCA 150 GF",
+    "Grupo": "GARRAFAS CACHACAS"
+  },
+  {
+    "Produto": "86-DOSE CACHACA YPIOCA 150",
+    "Código": 86,
+    "Descrição": "DOSE CACHACA YPIOCA 150",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "87-CACHACA YPIOCA EMPALHADA GF",
+    "Código": 87,
+    "Descrição": "CACHACA YPIOCA EMPALHADA GF",
+    "Grupo": "GARRAFAS CACHACAS"
+  },
+  {
+    "Produto": "88-DOSE CACHACA YPIOCA EMPALHADA",
+    "Código": 88,
+    "Descrição": "DOSE CACHACA YPIOCA EMPALHADA",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "89-CACHACA YPIOCA OURO GF",
+    "Código": 89,
+    "Descrição": "CACHACA YPIOCA OURO GF",
+    "Grupo": "GARRAFAS CACHACAS"
+  },
+  {
+    "Produto": "90-DOSE CACHACA YPIOCA OURO",
+    "Código": 90,
+    "Descrição": "DOSE CACHACA YPIOCA OURO",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "91-CACHACA YPIOCA PRATA GF",
+    "Código": 91,
+    "Descrição": "CACHACA YPIOCA PRATA GF",
+    "Grupo": "GARRAFAS CACHACAS"
+  },
+  {
+    "Produto": "92-DOSE CACHACA YPIOCA PRATA",
+    "Código": 92,
+    "Descrição": "DOSE CACHACA YPIOCA PRATA",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "93-CONHAQUE DREHER GF",
+    "Código": 93,
+    "Descrição": "CONHAQUE DREHER GF",
+    "Grupo": "GARRAFAS CONHAQUES"
+  },
+  {
+    "Produto": "94-DOSE CONHAQUE DREHER",
+    "Código": 94,
+    "Descrição": "DOSE CONHAQUE DREHER",
+    "Grupo": "DOSES CONHAQUES"
+  },
+  {
+    "Produto": "95-GIN TANQUERAY GF",
+    "Código": 95,
+    "Descrição": "GIN TANQUERAY GF",
+    "Grupo": "GARRAFAS GINS"
+  },
+  {
+    "Produto": "96-DOSE GIN TANQUERAY",
+    "Código": 96,
+    "Descrição": "DOSE GIN TANQUERAY",
+    "Grupo": "DOSES GINS"
+  },
+  {
+    "Produto": "97-LICOR 43 GF",
+    "Código": 97,
+    "Descrição": "LICOR 43 GF",
+    "Grupo": "GARRAFAS LICORES"
+  },
+  {
+    "Produto": "98-DOSE LICOR 43",
+    "Código": 98,
+    "Descrição": "DOSE LICOR 43",
+    "Grupo": "DOSES LICORES"
+  },
+  {
+    "Produto": "99-LICOR COINTREAU GF",
+    "Código": 99,
+    "Descrição": "LICOR COINTREAU GF",
+    "Grupo": "GARRAFAS LICORES"
+  },
+  {
+    "Produto": "100-DOSE LICOR COINTREAU",
+    "Código": 100,
+    "Descrição": "DOSE LICOR COINTREAU",
+    "Grupo": "DOSES LICORES"
+  },
+  {
+    "Produto": "101-LICOR FOGO PAULISTA GF",
+    "Código": 101,
+    "Descrição": "LICOR FOGO PAULISTA GF",
+    "Grupo": "GARRAFAS LICORES"
+  },
+  {
+    "Produto": "102-DOSE LICOR FOGO PAULISTA",
+    "Código": 102,
+    "Descrição": "DOSE LICOR FOGO PAULISTA",
+    "Grupo": "DOSES LICORES"
+  },
+  {
+    "Produto": "103-RUM MALIBU GF",
+    "Código": 103,
+    "Descrição": "RUM MALIBU GF",
+    "Grupo": "GARRAFAS RUNS"
+  },
+  {
+    "Produto": "104-DOSE RUM MALIBU",
+    "Código": 104,
+    "Descrição": "DOSE RUM MALIBU",
+    "Grupo": "DOSES RUNS"
+  },
+  {
+    "Produto": "105-RUM MONTILA OURO GF",
+    "Código": 105,
+    "Descrição": "RUM MONTILA OURO GF",
+    "Grupo": "GARRAFAS RUNS"
+  },
+  {
+    "Produto": "106-DOSE RUM MONTILA OURO",
+    "Código": 106,
+    "Descrição": "DOSE RUM MONTILA OURO",
+    "Grupo": "DOSES RUNS"
+  },
+  {
+    "Produto": "107-RUM MONTILA PRATA GF",
+    "Código": 107,
+    "Descrição": "RUM MONTILA PRATA GF",
+    "Grupo": "GARRAFAS RUNS"
+  },
+  {
+    "Produto": "108-DOSE RUM MONTILA PRATA",
+    "Código": 108,
+    "Descrição": "DOSE RUM MONTILA PRATA",
+    "Grupo": "DOSES RUNS"
+  },
+  {
+    "Produto": "109-TEQUILA JOSE CUERVO OURO GF",
+    "Código": 109,
+    "Descrição": "TEQUILA JOSE CUERVO OURO GF",
+    "Grupo": "GARRAFAS TEQUILAS"
+  },
+  {
+    "Produto": "110-DOSE TEQUILA JOSE CUERVO OURO",
+    "Código": 110,
+    "Descrição": "DOSE TEQUILA JOSE CUERVO OURO",
+    "Grupo": "DOSES TEQUILAS"
+  },
+  {
+    "Produto": "111-TEQUILA JOSE CUERVO PRATA GF",
+    "Código": 111,
+    "Descrição": "TEQUILA JOSE CUERVO PRATA GF",
+    "Grupo": "GARRAFAS TEQUILAS"
+  },
+  {
+    "Produto": "112-DOSE TEQUILA JOSE CUERVO PRATA",
+    "Código": 112,
+    "Descrição": "DOSE TEQUILA JOSE CUERVO PRATA",
+    "Grupo": "DOSES TEQUILAS"
+  },
+  {
+    "Produto": "113-TEQUILA SAUZA GF",
+    "Código": 113,
+    "Descrição": "TEQUILA SAUZA GF",
+    "Grupo": "GARRAFAS TEQUILAS"
+  },
+  {
+    "Produto": "114-DOSE TEQUILA SAUZA",
+    "Código": 114,
+    "Descrição": "DOSE TEQUILA SAUZA",
+    "Grupo": "DOSES TEQUILAS"
+  },
+  {
+    "Produto": "115-TEQUILA TEQUILOKA GF",
+    "Código": 115,
+    "Descrição": "TEQUILA TEQUILOKA GF",
+    "Grupo": "GARRAFAS TEQUILAS"
+  },
+  {
+    "Produto": "116-DOSE TEQUILA TEQUILOKA",
+    "Código": 116,
+    "Descrição": "DOSE TEQUILA TEQUILOKA",
+    "Grupo": "DOSES TEQUILAS"
+  },
+  {
+    "Produto": "117-VODKA ABSOLUT GF",
+    "Código": 117,
+    "Descrição": "VODKA ABSOLUT GF",
+    "Grupo": "GARRAFAS VODKAS"
+  },
+  {
+    "Produto": "118-DOSE VODKA ABSOLUT",
+    "Código": 118,
+    "Descrição": "DOSE VODKA ABSOLUT",
+    "Grupo": "DOSES VODKAS"
+  },
+  {
+    "Produto": "119-VODKA CIROC GF",
+    "Código": 119,
+    "Descrição": "VODKA CIROC GF",
+    "Grupo": "GARRAFAS VODKAS"
+  },
+  {
+    "Produto": "120-DOSE VODKA CIROC",
+    "Código": 120,
+    "Descrição": "DOSE VODKA CIROC",
+    "Grupo": "DOSES VODKAS"
+  },
+  {
+    "Produto": "121-VODKA ORLOFF GF",
+    "Código": 121,
+    "Descrição": "VODKA ORLOFF GF",
+    "Grupo": "GARRAFAS VODKAS"
+  },
+  {
+    "Produto": "122-DOSE VODKA ORLOFF",
+    "Código": 122,
+    "Descrição": "DOSE VODKA ORLOFF",
+    "Grupo": "DOSES VODKAS"
+  },
+  {
+    "Produto": "123-VODKA SKYY GF",
+    "Código": 123,
+    "Descrição": "VODKA SKYY GF",
+    "Grupo": "GARRAFAS VODKAS"
+  },
+  {
+    "Produto": "124-DOSE VODKA SKYY",
+    "Código": 124,
+    "Descrição": "DOSE VODKA SKYY",
+    "Grupo": "DOSES VODKAS"
+  },
+  {
+    "Produto": "125-VODKA SLOVA GF",
+    "Código": 125,
+    "Descrição": "VODKA SLOVA GF",
+    "Grupo": "GARRAFAS VODKAS"
+  },
+  {
+    "Produto": "126-DOSE VODKA SLOVA",
+    "Código": 126,
+    "Descrição": "DOSE VODKA SLOVA",
+    "Grupo": "DOSES VODKAS"
+  },
+  {
+    "Produto": "127-VODKA SMIRNOFF GF",
+    "Código": 127,
+    "Descrição": "VODKA SMIRNOFF GF",
+    "Grupo": "GARRAFAS VODKAS"
+  },
+  {
+    "Produto": "128-DOSE VODKA SMIRNOFF",
+    "Código": 128,
+    "Descrição": "DOSE VODKA SMIRNOFF",
+    "Grupo": "DOSES VODKAS"
+  },
+  {
+    "Produto": "129-WHISKY BALLANTINES 12A GF",
+    "Código": 129,
+    "Descrição": "WHISKY BALLANTINES 12A GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "130-DOSE WHISKY BALLANTINES 12A",
+    "Código": 130,
+    "Descrição": "DOSE WHISKY BALLANTINES 12A",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "131-WHISKY BALLANTINES 8A GF",
+    "Código": 131,
+    "Descrição": "WHISKY BALLANTINES 8A GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "132-DOSE WHISKY BALLANTINES 8A",
+    "Código": 132,
+    "Descrição": "DOSE WHISKY BALLANTINES 8A",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "133-WHISKY BLACK WHITE GF",
+    "Código": 133,
+    "Descrição": "WHISKY BLACK WHITE GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "134-DOSE WHISKY BLACK WHITE",
+    "Código": 134,
+    "Descrição": "DOSE WHISKY BLACK WHITE",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "135-WHISKY BLACK LABEL GF",
+    "Código": 135,
+    "Descrição": "WHISKY BLACK LABEL GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "136-DOSE WHISKY BLACK LABEL",
+    "Código": 136,
+    "Descrição": "DOSE WHISKY BLACK LABEL",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "137-WHISKY BUCHANAS DELUXE GF",
+    "Código": 137,
+    "Descrição": "WHISKY BUCHANAS DELUXE GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "138-DOSE WHISKY BUCHANAS DELUXE",
+    "Código": 138,
+    "Descrição": "DOSE WHISKY BUCHANAS DELUXE",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "139-WHISKY CHIVAS REGAL GF",
+    "Código": 139,
+    "Descrição": "WHISKY CHIVAS REGAL GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "140-DOSE WHISKY CHIVAS REGAL",
+    "Código": 140,
+    "Descrição": "DOSE WHISKY CHIVAS REGAL",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "141-WHISKY JACK DANIELS GF",
+    "Código": 141,
+    "Descrição": "WHISKY JACK DANIELS GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "142-DOSE WHISKY JACK DANIELS",
+    "Código": 142,
+    "Descrição": "DOSE WHISKY JACK DANIELS",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "143-WHISKY OLD PARR GF",
+    "Código": 143,
+    "Descrição": "WHISKY OLD PARR GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "144-DOSE WHISKY OLD PARR",
+    "Código": 144,
+    "Descrição": "DOSE WHISKY OLD PARR",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "145-WHISKY RED LABEL GF",
+    "Código": 145,
+    "Descrição": "WHISKY RED LABEL GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "146-DOSE WHISKY RED LABEL",
+    "Código": 146,
+    "Descrição": "DOSE WHISKY RED LABEL",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "147-WHISKY TEACHERS GF",
+    "Código": 147,
+    "Descrição": "WHISKY TEACHERS GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "148-DOSE WHISKY TEACHERS",
+    "Código": 148,
+    "Descrição": "DOSE WHISKY TEACHERS",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "149-WHISKY WHITE HORSE GF",
+    "Código": 149,
+    "Descrição": "WHISKY WHITE HORSE GF",
+    "Grupo": "GARRAFAS WHISKIES"
+  },
+  {
+    "Produto": "150-DOSE WHISKY WHITE HORSE",
+    "Código": 150,
+    "Descrição": "DOSE WHISKY WHITE HORSE",
+    "Grupo": "DOSES WHISKIES"
+  },
+  {
+    "Produto": "151-VINHO CASAL GARCIA GF",
+    "Código": 151,
+    "Descrição": "VINHO CASAL GARCIA GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "152-VINHO CASILEIRO DEL DIABLO GF",
+    "Código": 152,
+    "Descrição": "VINHO CASILEIRO DEL DIABLO GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "153-VINHO O GAUCHO SECO GF",
+    "Código": 153,
+    "Descrição": "VINHO O GAUCHO SECO GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "154-TACA VINHO O GAUCHO SECO",
+    "Código": 154,
+    "Descrição": "TACA VINHO O GAUCHO SECO",
+    "Grupo": "TACAS VINHOS"
+  },
+  {
+    "Produto": "155-VINHO O GAUCHO SUAVE GF",
+    "Código": 155,
+    "Descrição": "VINHO O GAUCHO SUAVE GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "156-TACA VINHO O GAUCHO SUAVE",
+    "Código": 156,
+    "Descrição": "TACA VINHO O GAUCHO SUAVE",
+    "Grupo": "TACAS VINHOS"
+  },
+  {
+    "Produto": "157-VINHO QUINTA DO MORG SECO GF",
+    "Código": 157,
+    "Descrição": "VINHO QUINTA DO MORG SECO GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "158-TACA VINHO QUINTA DO MORG SECO",
+    "Código": 158,
+    "Descrição": "TACA VINHO QUINTA DO MORG SECO",
+    "Grupo": "TACAS VINHOS"
+  },
+  {
+    "Produto": "159-VINHO QUINTA DO MORG SUAVE GF",
+    "Código": 159,
+    "Descrição": "VINHO QUINTA DO MORG SUAVE GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "160-TACA VINHO QUINTA DO MORG SUAV",
+    "Código": 160,
+    "Descrição": "TACA VINHO QUINTA DO MORG SUAV",
+    "Grupo": "TACAS VINHOS"
+  },
+  {
+    "Produto": "161-VINHO PERGOLA GF",
+    "Código": 161,
+    "Descrição": "VINHO PERGOLA GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "162-VINHO RESERVADO GF",
+    "Código": 162,
+    "Descrição": "VINHO RESERVADO GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "163-VINHO SAINT GERMAIN GF",
+    "Código": 163,
+    "Descrição": "VINHO SAINT GERMAIN GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "164-ESPUMANTE CHANDON",
+    "Código": 164,
+    "Descrição": "ESPUMANTE CHANDON",
+    "Grupo": "ESPUMANTES"
+  },
+  {
+    "Produto": "165-STELLA ARTOIS 600ML",
+    "Código": 165,
+    "Descrição": "STELLA ARTOIS 600ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "166-AIPIM FRITO",
+    "Código": 166,
+    "Descrição": "AIPIM FRITO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "167-BATATA FRITA",
+    "Código": 167,
+    "Descrição": "BATATA FRITA",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "168-MEIA BATATA FRITA",
+    "Código": 168,
+    "Descrição": "MEIA BATATA FRITA",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "169-QUEIJO A MILANESA",
+    "Código": 169,
+    "Descrição": "QUEIJO A MILANESA",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "170-CAMARAO AO ALHO E OLEO",
+    "Código": 170,
+    "Descrição": "CAMARAO AO ALHO E OLEO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "171-CARNE DE SOL COM AIPIM FRITO",
+    "Código": 171,
+    "Descrição": "CARNE DE SOL COM AIPIM FRITO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "172-CARNE SUINA TRINCHADA",
+    "Código": 172,
+    "Descrição": "CARNE SUINA TRINCHADA",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "173-CONTRA FILE TRINCHADO E ACEBOL",
+    "Código": 173,
+    "Descrição": "CONTRA FILE TRINCHADO E ACEBOL",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "174-FRANGO A PASSARINHO",
+    "Código": 174,
+    "Descrição": "FRANGO A PASSARINHO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "175-LINGUICA CALABRESA",
+    "Código": 175,
+    "Descrição": "LINGUICA CALABRESA",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "176-NUGGET DE FRANGO",
+    "Código": 176,
+    "Descrição": "NUGGET DE FRANGO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "177-NUGGET DE PEIXE",
+    "Código": 177,
+    "Descrição": "NUGGET DE PEIXE",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "178-PEIXE INTEIRO FRITO",
+    "Código": 178,
+    "Descrição": "PEIXE INTEIRO FRITO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "179-CHURRASCO A GAUCHO",
+    "Código": 179,
+    "Descrição": "CHURRASCO A GAUCHO",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "180-MEIO CHURRASCO A GAUCHO",
+    "Código": 180,
+    "Descrição": "MEIO CHURRASCO A GAUCHO",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "181-CHURRASCO MISTO",
+    "Código": 181,
+    "Descrição": "CHURRASCO MISTO",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "182-MEIO CHURRASCO MISTO",
+    "Código": 182,
+    "Descrição": "MEIO CHURRASCO MISTO",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "183-COSTELA SUINA",
+    "Código": 183,
+    "Descrição": "COSTELA SUINA",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "184-MEIA COSTELA SUINA",
+    "Código": 184,
+    "Descrição": "MEIA COSTELA SUINA",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "185-FILE DE FRANGO GRELHADO",
+    "Código": 185,
+    "Descrição": "FILE DE FRANGO GRELHADO",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "186-MEIO FILE DE FRANGO GRELHADO",
+    "Código": 186,
+    "Descrição": "MEIO FILE DE FRANGO GRELHADO",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "187-PICANHA IMPORTADA",
+    "Código": 187,
+    "Descrição": "PICANHA IMPORTADA",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "188-MEIA PICANHA IMPORTADA",
+    "Código": 188,
+    "Descrição": "MEIA PICANHA IMPORTADA",
+    "Grupo": "CHURRASCOS"
+  },
+  {
+    "Produto": "189-FILE DE FRANGO A PARMEGIANA",
+    "Código": 189,
+    "Descrição": "FILE DE FRANGO A PARMEGIANA",
+    "Grupo": "CARNES AO MOLHO"
+  },
+  {
+    "Produto": "190-MEIO FILE DE FRANGO A PARMEG",
+    "Código": 190,
+    "Descrição": "MEIO FILE DE FRANGO A PARMEG",
+    "Grupo": "CARNES AO MOLHO"
+  },
+  {
+    "Produto": "191-FILE DE FRANGO AO MOLHO M",
+    "Código": 191,
+    "Descrição": "FILE DE FRANGO AO MOLHO M",
+    "Grupo": "CARNES AO MOLHO"
+  },
+  {
+    "Produto": "192-MEIO FILE DE FRANGO AO MOLHO M",
+    "Código": 192,
+    "Descrição": "MEIO FILE DE FRANGO AO MOLHO M",
+    "Grupo": "CARNES AO MOLHO"
+  },
+  {
+    "Produto": "193-FILE MIGNON A PARMEGIANA",
+    "Código": 193,
+    "Descrição": "FILE MIGNON A PARMEGIANA",
+    "Grupo": "CARNES AO MOLHO"
+  },
+  {
+    "Produto": "194-MEIO FILE MIGNON A PARMEGIANA",
+    "Código": 194,
+    "Descrição": "MEIO FILE MIGNON A PARMEGIANA",
+    "Grupo": "CARNES AO MOLHO"
+  },
+  {
+    "Produto": "195-FILE MIGNON AO MOLHO MADEIRA",
+    "Código": 195,
+    "Descrição": "FILE MIGNON AO MOLHO MADEIRA",
+    "Grupo": "CARNES AO MOLHO"
+  },
+  {
+    "Produto": "196-MEDALHAO FILE MIGNON",
+    "Código": 196,
+    "Descrição": "MEDALHAO FILE MIGNON",
+    "Grupo": "CARNES AO MOLHO"
+  },
+  {
+    "Produto": "197-CAMARAO COMODORO",
+    "Código": 197,
+    "Descrição": "CAMARAO COMODORO",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "198-CAMARAO EMPANADO AO MOLHO B",
+    "Código": 198,
+    "Descrição": "CAMARAO EMPANADO AO MOLHO B",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "199-FILE DE PEIXE A PARMEG MOLHO B",
+    "Código": 199,
+    "Descrição": "FILE DE PEIXE A PARMEG MOLHO B",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "200-MEIO FILE PEIXE A PARM MOLHO B",
+    "Código": 200,
+    "Descrição": "MEIO FILE PEIXE A PARM MOLHO B",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "201-FILE PEIXE C CAMARAO MOLHO B",
+    "Código": 201,
+    "Descrição": "FILE PEIXE C CAMARAO MOLHO B",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "202-FILE DE PEIXE GRELHADO",
+    "Código": 202,
+    "Descrição": "FILE DE PEIXE GRELHADO",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "203-MEIO FILE DE PEIXE GRELHADO",
+    "Código": 203,
+    "Descrição": "MEIO FILE DE PEIXE GRELHADO",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "204-FILE SALMAO GRELHADO BELLE MEU",
+    "Código": 204,
+    "Descrição": "FILE SALMAO GRELHADO BELLE MEU",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "205-PEIXADA COZIDA MOLHO ESPECIAL",
+    "Código": 205,
+    "Descrição": "PEIXADA COZIDA MOLHO ESPECIAL",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "206-PEIXE FRITO",
+    "Código": 206,
+    "Descrição": "PEIXE FRITO",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "207-PEIXE NA BRASA",
+    "Código": 207,
+    "Descrição": "PEIXE NA BRASA",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "208-ESPAGUETE A BOLONHESA",
+    "Código": 208,
+    "Descrição": "ESPAGUETE A BOLONHESA",
+    "Grupo": "ESPAGUETES"
+  },
+  {
+    "Produto": "209-ESPAGUETE CAMARAO AO MOLHO E",
+    "Código": 209,
+    "Descrição": "ESPAGUETE CAMARAO AO MOLHO E",
+    "Grupo": "ESPAGUETES"
+  },
+  {
+    "Produto": "210-FETTUCCINE A CARBONARA",
+    "Código": 210,
+    "Descrição": "FETTUCCINE A CARBONARA",
+    "Grupo": "MASSAS ARTESANAIS"
+  },
+  {
+    "Produto": "211-FETTUCCINE A CARBONARA CAMARAO",
+    "Código": 211,
+    "Descrição": "FETTUCCINE A CARBONARA CAMARAO",
+    "Grupo": "MASSAS ARTESANAIS"
+  },
+  {
+    "Produto": "212-FETTUCCINE A PARISIENSE",
+    "Código": 212,
+    "Descrição": "FETTUCCINE A PARISIENSE",
+    "Grupo": "MASSAS ARTESANAIS"
+  },
+  {
+    "Produto": "213-RONDELLI COM CARNE DE SOL",
+    "Código": 213,
+    "Descrição": "RONDELLI COM CARNE DE SOL",
+    "Grupo": "MASSAS ARTESANAIS"
+  },
+  {
+    "Produto": "214-EXEC CONTRA FILE AO MOLHO M",
+    "Código": 214,
+    "Descrição": "EXEC CONTRA FILE AO MOLHO M",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "215-EXEC CHURRASCO SUINO NA BRASA",
+    "Código": 215,
+    "Descrição": "EXEC CHURRASCO SUINO NA BRASA",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "216-EXEC FETTUCCINE A BOLONHESA",
+    "Código": 216,
+    "Descrição": "EXEC FETTUCCINE A BOLONHESA",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "217-EXEC FILE DE FRANGO A PARMEG",
+    "Código": 217,
+    "Descrição": "EXEC FILE DE FRANGO A PARMEG",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "218-EXEC FILE DE FRANGO AO MOLHO M",
+    "Código": 218,
+    "Descrição": "EXEC FILE DE FRANGO AO MOLHO M",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "219-EXEC FILE FRANG GRELHADO BRASA",
+    "Código": 219,
+    "Descrição": "EXEC FILE FRANG GRELHADO BRASA",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "220-EXEC FILE DE PEIXE GRELHADO",
+    "Código": 220,
+    "Descrição": "EXEC FILE DE PEIXE GRELHADO",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "221-EXEC FILE PEIXE PARMEG MOLHO B",
+    "Código": 221,
+    "Descrição": "EXEC FILE PEIXE PARMEG MOLHO B",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "222-EXEC FILE MIGNON A PARMEGIANA",
+    "Código": 222,
+    "Descrição": "EXEC FILE MIGNON A PARMEGIANA",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "223-EXEC RONDELLI DE CARNE",
+    "Código": 223,
+    "Descrição": "EXEC RONDELLI DE CARNE",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "224-EXEC RONDELLI DE CARNE DE SOL",
+    "Código": 224,
+    "Descrição": "EXEC RONDELLI DE CARNE DE SOL",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "225-PRATO FEITO DE CARNE BOVINA",
+    "Código": 225,
+    "Descrição": "PRATO FEITO DE CARNE BOVINA",
+    "Grupo": "PRATOS FEITOS"
+  },
+  {
+    "Produto": "226-PRATO FEITO DE CARNE SUINA",
+    "Código": 226,
+    "Descrição": "PRATO FEITO DE CARNE SUINA",
+    "Grupo": "PRATOS FEITOS"
+  },
+  {
+    "Produto": "227-PRATO FEITO DE FRANGO NA BRASA",
+    "Código": 227,
+    "Descrição": "PRATO FEITO DE FRANGO NA BRASA",
+    "Grupo": "PRATOS FEITOS"
+  },
+  {
+    "Produto": "228-PRATO FEITO DE PEIXE GRELHADO",
+    "Código": 228,
+    "Descrição": "PRATO FEITO DE PEIXE GRELHADO",
+    "Grupo": "PRATOS FEITOS"
+  },
+  {
+    "Produto": "229-QUENTINHA DE CARNE BOVINA",
+    "Código": 229,
+    "Descrição": "QUENTINHA DE CARNE BOVINA",
+    "Grupo": "QUENTINHAS"
+  },
+  {
+    "Produto": "230-QUENTINHA DE CARNE SUINA",
+    "Código": 230,
+    "Descrição": "QUENTINHA DE CARNE SUINA",
+    "Grupo": "QUENTINHAS"
+  },
+  {
+    "Produto": "231-QUENTINHA DE FRANGO",
+    "Código": 231,
+    "Descrição": "QUENTINHA DE FRANGO",
+    "Grupo": "QUENTINHAS"
+  },
+  {
+    "Produto": "232-QUENTINHA DE LINGUICA",
+    "Código": 232,
+    "Descrição": "QUENTINHA DE LINGUICA",
+    "Grupo": "QUENTINHAS"
+  },
+  {
+    "Produto": "233-QUENTINHA DE PEIXE GRELHADO",
+    "Código": 233,
+    "Descrição": "QUENTINHA DE PEIXE GRELHADO",
+    "Grupo": "QUENTINHAS"
+  },
+  {
+    "Produto": "234-QUENTINHA DE SALPICAO",
+    "Código": 234,
+    "Descrição": "QUENTINHA DE SALPICAO",
+    "Grupo": "QUENTINHAS"
+  },
+  {
+    "Produto": "235-EXEC CHURRASCO CONTRA FILE",
+    "Código": 235,
+    "Descrição": "EXEC CHURRASCO CONTRA FILE",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "236-CAIPIVODKA SMIRNOFF",
+    "Código": 236,
+    "Descrição": "CAIPIVODKA SMIRNOFF",
+    "Grupo": "CAIPIVODKAS"
+  },
+  {
+    "Produto": "237-ARROZ A GREGA",
+    "Código": 237,
+    "Descrição": "ARROZ A GREGA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "238-MEIO ARROZ A GREGA",
+    "Código": 238,
+    "Descrição": "MEIO ARROZ A GREGA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "239-ARROZ A PIAMONTESE",
+    "Código": 239,
+    "Descrição": "ARROZ A PIAMONTESE",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "240-MEIO ARROZ A PIAMONTESE",
+    "Código": 240,
+    "Descrição": "MEIO ARROZ A PIAMONTESE",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "241-ARROZ BRANCO",
+    "Código": 241,
+    "Descrição": "ARROZ BRANCO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "242-MEIO ARROZ BRANCO",
+    "Código": 242,
+    "Descrição": "MEIO ARROZ BRANCO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "243-ARROZ COM ACAFRAO",
+    "Código": 243,
+    "Descrição": "ARROZ COM ACAFRAO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "244-MEIO ARROZ COM ACAFRAO",
+    "Código": 244,
+    "Descrição": "MEIO ARROZ COM ACAFRAO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "245-ARROZ COM BROCOLIS",
+    "Código": 245,
+    "Descrição": "ARROZ COM BROCOLIS",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "246-MEIO ARROZ COM BROCOLIS",
+    "Código": 246,
+    "Descrição": "MEIO ARROZ COM BROCOLIS",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "247-ARROZ DE FORNO",
+    "Código": 247,
+    "Descrição": "ARROZ DE FORNO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "248-MEIO ARROZ DE FORNO",
+    "Código": 248,
+    "Descrição": "MEIO ARROZ DE FORNO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "249-ARROZ MALUCO",
+    "Código": 249,
+    "Descrição": "ARROZ MALUCO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "250-MEIO ARROZ MALUCO",
+    "Código": 250,
+    "Descrição": "MEIO ARROZ MALUCO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "251-BAIAO DE DOIS",
+    "Código": 251,
+    "Descrição": "BAIAO DE DOIS",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "252-MEIO BAIAO DE DOIS",
+    "Código": 252,
+    "Descrição": "MEIO BAIAO DE DOIS",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "253-BATATA ROSTI",
+    "Código": 253,
+    "Descrição": "BATATA ROSTI",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "254-FAROFA",
+    "Código": 254,
+    "Descrição": "FAROFA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "255-FAROFA DE OVOS",
+    "Código": 255,
+    "Descrição": "FAROFA DE OVOS",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "256-FEIJAO PRETO",
+    "Código": 256,
+    "Descrição": "FEIJAO PRETO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "257-LINGUICA",
+    "Código": 257,
+    "Descrição": "LINGUICA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "258-MACARRAO G",
+    "Código": 258,
+    "Descrição": "MACARRAO G",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "259-MACARRAO M",
+    "Código": 259,
+    "Descrição": "MACARRAO M",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "260-OMELETE",
+    "Código": 260,
+    "Descrição": "OMELETE",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "261-SALADA VERDE G",
+    "Código": 261,
+    "Descrição": "SALADA VERDE G",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "262-SALADA VERDE M",
+    "Código": 262,
+    "Descrição": "SALADA VERDE M",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "263-SALPICAO G",
+    "Código": 263,
+    "Descrição": "SALPICAO G",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "264-SALPICAO M",
+    "Código": 264,
+    "Descrição": "SALPICAO M",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "265-VINAGRETE",
+    "Código": 265,
+    "Descrição": "VINAGRETE",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "266-COSTELA SUINA SIMPLES",
+    "Código": 266,
+    "Descrição": "COSTELA SUINA SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "267-MEIA COSTELA SIMPLES",
+    "Código": 267,
+    "Descrição": "MEIA COSTELA SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "268-CHURRASCO MISTO SIMPLES",
+    "Código": 268,
+    "Descrição": "CHURRASCO MISTO SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "269-MEIO CHURRASCO MISTO SIMPLES",
+    "Código": 269,
+    "Descrição": "MEIO CHURRASCO MISTO SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "270-MEIO CHURRASCO A GAUCHO SIMPLE",
+    "Código": 270,
+    "Descrição": "MEIO CHURRASCO A GAUCHO SIMPLE",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "271-PICANHA IMPORTADA SIMPLES",
+    "Código": 271,
+    "Descrição": "PICANHA IMPORTADA SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "272-MEIA PICANHA IMPORTADA SIMPLES",
+    "Código": 272,
+    "Descrição": "MEIA PICANHA IMPORTADA SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "273-PEIXADA SIMPLES",
+    "Código": 273,
+    "Descrição": "PEIXADA SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "274-PEIXE NA BRASA SIMPLES",
+    "Código": 274,
+    "Descrição": "PEIXE NA BRASA SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "275-PEDACO DE CONTRA FILE",
+    "Código": 275,
+    "Descrição": "PEDACO DE CONTRA FILE",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "276-PEDACO DE FILE DE PEIXE",
+    "Código": 276,
+    "Descrição": "PEDACO DE FILE DE PEIXE",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "277-PEDACO DE FILE MIGNON",
+    "Código": 277,
+    "Descrição": "PEDACO DE FILE MIGNON",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "278-PEDACO DE FILE DE FRANGO",
+    "Código": 278,
+    "Descrição": "PEDACO DE FILE DE FRANGO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "279-PEDACO DE CARNE SUINA",
+    "Código": 279,
+    "Descrição": "PEDACO DE CARNE SUINA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "280-PEDACO DE PICANHA",
+    "Código": 280,
+    "Descrição": "PEDACO DE PICANHA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "281-OVO FRITO",
+    "Código": 281,
+    "Descrição": "OVO FRITO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "282-PURE DE BATATA",
+    "Código": 282,
+    "Descrição": "PURE DE BATATA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "283-PIZZA CALABRESA",
+    "Código": 283,
+    "Descrição": "PIZZA CALABRESA",
+    "Grupo": "PIZZAS"
+  },
+  {
+    "Produto": "284-PIZZA FRANGO COM CATUPIRY",
+    "Código": 284,
+    "Descrição": "PIZZA FRANGO COM CATUPIRY",
+    "Grupo": "PIZZAS"
+  },
+  {
+    "Produto": "285-PIZZA MISTA",
+    "Código": 285,
+    "Descrição": "PIZZA MISTA",
+    "Grupo": "PIZZAS"
+  },
+  {
+    "Produto": "286-PIZZA MUSSARELA",
+    "Código": 286,
+    "Descrição": "PIZZA MUSSARELA",
+    "Grupo": "PIZZAS"
+  },
+  {
+    "Produto": "287-PIZZA PORTUGUESA",
+    "Código": 287,
+    "Descrição": "PIZZA PORTUGUESA",
+    "Grupo": "PIZZAS"
+  },
+  {
+    "Produto": "288-BOLO DE POTE",
+    "Código": 288,
+    "Descrição": "BOLO DE POTE",
+    "Grupo": "BOLOS E TORTAS"
+  },
+  {
+    "Produto": "289-BROWNIE",
+    "Código": 289,
+    "Descrição": "BROWNIE",
+    "Grupo": "BROWNIES"
+  },
+  {
+    "Produto": "290-BROWNIE COM SORVETE DE CREME",
+    "Código": 290,
+    "Descrição": "BROWNIE COM SORVETE DE CREME",
+    "Grupo": "BROWNIES"
+  },
+  {
+    "Produto": "291-DELICIA DE ABACAXI",
+    "Código": 291,
+    "Descrição": "DELICIA DE ABACAXI",
+    "Grupo": "DELICIAS"
+  },
+  {
+    "Produto": "292-DELICIA DE LIMAO",
+    "Código": 292,
+    "Descrição": "DELICIA DE LIMAO",
+    "Grupo": "DELICIAS"
+  },
+  {
+    "Produto": "293-MOUSSE DE MARACUJA",
+    "Código": 293,
+    "Descrição": "MOUSSE DE MARACUJA",
+    "Grupo": "MOUSSES"
+  },
+  {
+    "Produto": "294-MOUSSE DE MORANGO",
+    "Código": 294,
+    "Descrição": "MOUSSE DE MORANGO",
+    "Grupo": "MOUSSES"
+  },
+  {
+    "Produto": "295-PALHA ITALIANA",
+    "Código": 295,
+    "Descrição": "PALHA ITALIANA",
+    "Grupo": "BOLOS E TORTAS"
+  },
+  {
+    "Produto": "296-PUDIM DE LEITE CONDENSADO",
+    "Código": 296,
+    "Descrição": "PUDIM DE LEITE CONDENSADO",
+    "Grupo": "PUDINS"
+  },
+  {
+    "Produto": "297-TRIDENT",
+    "Código": 297,
+    "Descrição": "TRIDENT",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "298-PICOLE COM COBERTURA",
+    "Código": 298,
+    "Descrição": "PICOLE COM COBERTURA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "299-PICOLE SEM COBERTURA",
+    "Código": 299,
+    "Descrição": "PICOLE SEM COBERTURA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "300-PICOLE PARDAL SUPRA",
+    "Código": 300,
+    "Descrição": "PICOLE PARDAL SUPRA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "301-PICOLE QUICK EXCELLENCE",
+    "Código": 301,
+    "Descrição": "PICOLE QUICK EXCELLENCE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "302-SORVETE PARDAL ORIGINAL",
+    "Código": 302,
+    "Descrição": "SORVETE PARDAL ORIGINAL",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "303-SORVETE PARDAL FUN",
+    "Código": 303,
+    "Descrição": "SORVETE PARDAL FUN",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "304-SORVETE QUICK MINI",
+    "Código": 304,
+    "Descrição": "SORVETE QUICK MINI",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "305-SORVETE QUICK SUNDAY",
+    "Código": 305,
+    "Descrição": "SORVETE QUICK SUNDAY",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "306-SORVETE QUICK CORNETTO",
+    "Código": 306,
+    "Descrição": "SORVETE QUICK CORNETTO",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "307-SORVETE QUICK MAIS",
+    "Código": 307,
+    "Descrição": "SORVETE QUICK MAIS",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "308-BATATA RUFFLES",
+    "Código": 308,
+    "Descrição": "BATATA RUFFLES",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "309-BATATA SENSACOES",
+    "Código": 309,
+    "Descrição": "BATATA SENSACOES",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "310-CEBOLITOS",
+    "Código": 310,
+    "Descrição": "CEBOLITOS",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "311-CHEETOS",
+    "Código": 311,
+    "Descrição": "CHEETOS",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "312-DORITOS",
+    "Código": 312,
+    "Descrição": "DORITOS",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "313-FANDANGOS",
+    "Código": 313,
+    "Descrição": "FANDANGOS",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "314-TRAVESSA DE SALPICAO G",
+    "Código": 314,
+    "Descrição": "TRAVESSA DE SALPICAO G",
+    "Grupo": "ATACADO"
+  },
+  {
+    "Produto": "315-TRAVESSA DE SALPICAO M",
+    "Código": 315,
+    "Descrição": "TRAVESSA DE SALPICAO M",
+    "Grupo": "ATACADO"
+  },
+  {
+    "Produto": "316-BUFFET",
+    "Código": 316,
+    "Descrição": "BUFFET",
+    "Grupo": "BUFFET"
+  },
+  {
+    "Produto": "317-QUENTINHA DE ALUMINIO",
+    "Código": 317,
+    "Descrição": "QUENTINHA DE ALUMINIO",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "318-QUENTINHA DE ISOPOR",
+    "Código": 318,
+    "Descrição": "QUENTINHA DE ISOPOR",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "319-BANHO",
+    "Código": 319,
+    "Descrição": "BANHO",
+    "Grupo": "BANHO"
+  },
+  {
+    "Produto": "320-HOSPEDAGEM INDIVIDUAL TERREO",
+    "Código": 320,
+    "Descrição": "HOSPEDAGEM INDIVIDUAL TERREO",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "321-HOSPEDAGEM INDIVIDUAL 1A",
+    "Código": 321,
+    "Descrição": "HOSPEDAGEM INDIVIDUAL 1A",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "322-HOSPEDAGEM CASAL TERREO",
+    "Código": 322,
+    "Descrição": "HOSPEDAGEM CASAL TERREO",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "323-HOSPEDAGEM CASAL 1A",
+    "Código": 323,
+    "Descrição": "HOSPEDAGEM CASAL 1A",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "324-HOSPEDAGEM ADIC CRIANCAS",
+    "Código": 324,
+    "Descrição": "HOSPEDAGEM ADIC CRIANCAS",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "325-HOSPEDAGEM ADIC ADOLESC E ADUL",
+    "Código": 325,
+    "Descrição": "HOSPEDAGEM ADIC ADOLESC E ADUL",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "326-SALPICAO P",
+    "Código": 326,
+    "Descrição": "SALPICAO P",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "327-TRIDENT MENTA",
+    "Código": 327,
+    "Descrição": "TRIDENT MENTA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "328-CHEETOS BOLA QUEIJO SUICO",
+    "Código": 328,
+    "Descrição": "CHEETOS BOLA QUEIJO SUICO",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "329-CHEETOS ONDA REQUEIJAO",
+    "Código": 329,
+    "Descrição": "CHEETOS ONDA REQUEIJAO",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "330-CHEETOS LUA PARMESAO",
+    "Código": 330,
+    "Descrição": "CHEETOS LUA PARMESAO",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "331-DORITOS NACHO",
+    "Código": 331,
+    "Descrição": "DORITOS NACHO",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "332-FANDANGOS PRESUNTO",
+    "Código": 332,
+    "Descrição": "FANDANGOS PRESUNTO",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "333-FANDANGOS QUEIJO",
+    "Código": 333,
+    "Descrição": "FANDANGOS QUEIJO",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "334-RUFFLES CEBOLA E SALSA",
+    "Código": 334,
+    "Descrição": "RUFFLES CEBOLA E SALSA",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "335-RUFFLES CHURRASCO",
+    "Código": 335,
+    "Descrição": "RUFFLES CHURRASCO",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "336-RUFFLES SAL ORIGINAL",
+    "Código": 336,
+    "Descrição": "RUFFLES SAL ORIGINAL",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "337-SENSACOES FRANGO GRELHADO",
+    "Código": 337,
+    "Descrição": "SENSACOES FRANGO GRELHADO",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "338-SENSACOES PEITO DE PERU",
+    "Código": 338,
+    "Descrição": "SENSACOES PEITO DE PERU",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "339-PICOLE PARDAL CLASS BRIGADEIRO",
+    "Código": 339,
+    "Descrição": "PICOLE PARDAL CLASS BRIGADEIRO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "340-PICOLE PARDAL CLASS CHOCOLATE",
+    "Código": 340,
+    "Descrição": "PICOLE PARDAL CLASS CHOCOLATE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "341-PICOLE PARDAL CLASS FLOCOS",
+    "Código": 341,
+    "Descrição": "PICOLE PARDAL CLASS FLOCOS",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "342-PICOLE PARDAL CLASS MORANGO",
+    "Código": 342,
+    "Descrição": "PICOLE PARDAL CLASS MORANGO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "343-PICOLE PARDAL ORIG ACAI BANANA",
+    "Código": 343,
+    "Descrição": "PICOLE PARDAL ORIG ACAI BANANA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "344-PICOLE PARDAL ORIG CAJA",
+    "Código": 344,
+    "Descrição": "PICOLE PARDAL ORIG CAJA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "345-PICOLE PARDAL ORIG CASTANHA",
+    "Código": 345,
+    "Descrição": "PICOLE PARDAL ORIG CASTANHA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "346-PICOLE PARDAL ORIG COCO",
+    "Código": 346,
+    "Descrição": "PICOLE PARDAL ORIG COCO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "347-PICOLE PARDAL ORIG MILHO",
+    "Código": 347,
+    "Descrição": "PICOLE PARDAL ORIG MILHO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "348-PICOLE PARDAL ORIG TAPIOCA",
+    "Código": 348,
+    "Descrição": "PICOLE PARDAL ORIG TAPIOCA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "349-PICOLE PARDAL FUN CHICLETE",
+    "Código": 349,
+    "Descrição": "PICOLE PARDAL FUN CHICLETE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "350-PICOLE PARDAL FUN DOCE D LEITE",
+    "Código": 350,
+    "Descrição": "PICOLE PARDAL FUN DOCE D LEITE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "351-PICOLE PARDAL FUN LEITE COND",
+    "Código": 351,
+    "Descrição": "PICOLE PARDAL FUN LEITE COND",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "352-PICOLE PARDAL FUN MOCA LINDA",
+    "Código": 352,
+    "Descrição": "PICOLE PARDAL FUN MOCA LINDA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "353-PICOLE PARDAL FUN PEDAC DO CEU",
+    "Código": 353,
+    "Descrição": "PICOLE PARDAL FUN PEDAC DO CEU",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "354-PICOLE PARDAL FUN UVA",
+    "Código": 354,
+    "Descrição": "PICOLE PARDAL FUN UVA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "355-PICOLE PARDAL LIVRE ABACAXI",
+    "Código": 355,
+    "Descrição": "PICOLE PARDAL LIVRE ABACAXI",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "356-PICOLE PARDAL LIVRE LIMAO",
+    "Código": 356,
+    "Descrição": "PICOLE PARDAL LIVRE LIMAO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "357-PICOLE PARDAL LIVRE MARACUJA",
+    "Código": 357,
+    "Descrição": "PICOLE PARDAL LIVRE MARACUJA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "358-PICOLE PARDAL LIVRE TANGERINA",
+    "Código": 358,
+    "Descrição": "PICOLE PARDAL LIVRE TANGERINA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "359-PICOLE PARDAL SUPRA ACAI",
+    "Código": 359,
+    "Descrição": "PICOLE PARDAL SUPRA ACAI",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "360-PICOLE PARDAL SUPRA CASTANHA",
+    "Código": 360,
+    "Descrição": "PICOLE PARDAL SUPRA CASTANHA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "361-PICOLE PARDAL SUPRA CHOCOLATE",
+    "Código": 361,
+    "Descrição": "PICOLE PARDAL SUPRA CHOCOLATE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "362-PICOLE PARDAL SUPRA CHOC BRANC",
+    "Código": 362,
+    "Descrição": "PICOLE PARDAL SUPRA CHOC BRANC",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "363-PICOLE PARDAL SUPRA MOUSSE LIM",
+    "Código": 363,
+    "Descrição": "PICOLE PARDAL SUPRA MOUSSE LIM",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "364-PICOLE PARDAL SUPRA NAPOLITANO",
+    "Código": 364,
+    "Descrição": "PICOLE PARDAL SUPRA NAPOLITANO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "365-SORV PARDAL CLASS BRIGAD 140ML",
+    "Código": 365,
+    "Descrição": "SORV PARDAL CLASS BRIGAD 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "366-SORV PARDAL CLASS FLOCOS 140ML",
+    "Código": 366,
+    "Descrição": "SORV PARDAL CLASS FLOCOS 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "367-SORV PARDAL CLASS MORANG 140ML",
+    "Código": 367,
+    "Descrição": "SORV PARDAL CLASS MORANG 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "368-SORV PARDAL CLASS NAPOLI 140ML",
+    "Código": 368,
+    "Descrição": "SORV PARDAL CLASS NAPOLI 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "369-SORV PARDAL ORIG CASTAN 140ML",
+    "Código": 369,
+    "Descrição": "SORV PARDAL ORIG CASTAN 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "370-SORV PARDAL ORIG CREME P 140ML",
+    "Código": 370,
+    "Descrição": "SORV PARDAL ORIG CREME P 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "371-SORV PARDAL FUN 3 CHOC 140ML",
+    "Código": 371,
+    "Descrição": "SORV PARDAL FUN 3 CHOC 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "372-SORV PARDAL FUN MENTA 140 ML",
+    "Código": 372,
+    "Descrição": "SORV PARDAL FUN MENTA 140 ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "373-SORV PARDAL SUNDAE CHOC 140ML",
+    "Código": 373,
+    "Descrição": "SORV PARDAL SUNDAE CHOC 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "374-SORV PARDAL SUNDAE MORAN 140ML",
+    "Código": 374,
+    "Descrição": "SORV PARDAL SUNDAE MORAN 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "375-PICOLE QUICK DLEITE CHOCOLATE",
+    "Código": 375,
+    "Descrição": "PICOLE QUICK DLEITE CHOCOLATE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "376-PICOLE QUICK DLEITE COCO",
+    "Código": 376,
+    "Descrição": "PICOLE QUICK DLEITE COCO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "377-PICOLE QUICK DLEITE LEITE COND",
+    "Código": 377,
+    "Descrição": "PICOLE QUICK DLEITE LEITE COND",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "378-PICOLE QUICK DLEITE MORANGO",
+    "Código": 378,
+    "Descrição": "PICOLE QUICK DLEITE MORANGO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "379-PICOLE QUICK EXC COOKIES E CRE",
+    "Código": 379,
+    "Descrição": "PICOLE QUICK EXC COOKIES E CRE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "380-PICOLE QUICK EXC FONDUE DE MOR",
+    "Código": 380,
+    "Descrição": "PICOLE QUICK EXC FONDUE DE MOR",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "381-PICOLE QUICK EXC MARACUJA",
+    "Código": 381,
+    "Descrição": "PICOLE QUICK EXC MARACUJA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "382-PICOLE QUICK EXC MORANGO NORDE",
+    "Código": 382,
+    "Descrição": "PICOLE QUICK EXC MORANGO NORDE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "383-PICOLE QUICK EXC PETIT GATEAU",
+    "Código": 383,
+    "Descrição": "PICOLE QUICK EXC PETIT GATEAU",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "384-PICOLE QUICK EXC TRADIC",
+    "Código": 384,
+    "Descrição": "PICOLE QUICK EXC TRADIC",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "385-PICOLE QUICK EXOT ACAI LEITE",
+    "Código": 385,
+    "Descrição": "PICOLE QUICK EXOT ACAI LEITE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "386-PICOLE QUICK EXOT CASTA CAJU",
+    "Código": 386,
+    "Descrição": "PICOLE QUICK EXOT CASTA CAJU",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "387-PICOLE QUICK EXOT CUSCUZ LEITE",
+    "Código": 387,
+    "Descrição": "PICOLE QUICK EXOT CUSCUZ LEITE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "388-PICOLE QUICK EXOT TAPIOCA",
+    "Código": 388,
+    "Descrição": "PICOLE QUICK EXOT TAPIOCA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "389-PICOLE QUICK TRAD BEL LACK",
+    "Código": 389,
+    "Descrição": "PICOLE QUICK TRAD BEL LACK",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "390-PICOLE QUICK TRAD BRIGADEIRO",
+    "Código": 390,
+    "Descrição": "PICOLE QUICK TRAD BRIGADEIRO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "391-PICOLE QUICK TRAD CHOCOBARRA",
+    "Código": 391,
+    "Descrição": "PICOLE QUICK TRAD CHOCOBARRA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "392-PICOLE QUICK TRAD NINHO TRUFAD",
+    "Código": 392,
+    "Descrição": "PICOLE QUICK TRAD NINHO TRUFAD",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "393-PICOLE QUICK TRAD SKIMO",
+    "Código": 393,
+    "Descrição": "PICOLE QUICK TRAD SKIMO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "394-PICOLE QUICK TRAD SUBLIME",
+    "Código": 394,
+    "Descrição": "PICOLE QUICK TRAD SUBLIME",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "395-SORV QUICK CONE BRIGADEIRO",
+    "Código": 395,
+    "Descrição": "SORV QUICK CONE BRIGADEIRO",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "396-SORV QUICK CONE FLOCOS",
+    "Código": 396,
+    "Descrição": "SORV QUICK CONE FLOCOS",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "397-SORV QUICK MAIS BAUNILHA",
+    "Código": 397,
+    "Descrição": "SORV QUICK MAIS BAUNILHA",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "398-SORV QUICK MAIS BOMBOM",
+    "Código": 398,
+    "Descrição": "SORV QUICK MAIS BOMBOM",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "399-SORV QUICK MAIS MORANGO",
+    "Código": 399,
+    "Descrição": "SORV QUICK MAIS MORANGO",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "400-SORV QUICK MINICUP FLOCOS",
+    "Código": 400,
+    "Descrição": "SORV QUICK MINICUP FLOCOS",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "401-SORV QUICK MINICUP LEITE CONDE",
+    "Código": 401,
+    "Descrição": "SORV QUICK MINICUP LEITE CONDE",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "402-SORV QUICK MINICUP MORANGO",
+    "Código": 402,
+    "Descrição": "SORV QUICK MINICUP MORANGO",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "403-SORV QUICK SUNDAE BAUNILHA",
+    "Código": 403,
+    "Descrição": "SORV QUICK SUNDAE BAUNILHA",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "404-SORV QUICK SUNDAE BOMBOM",
+    "Código": 404,
+    "Descrição": "SORV QUICK SUNDAE BOMBOM",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "405-SORV QUICK SUNDAE MORANGO",
+    "Código": 405,
+    "Descrição": "SORV QUICK SUNDAE MORANGO",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "406-CAIPIVODKA PISCINAO",
+    "Código": 406,
+    "Descrição": "CAIPIVODKA PISCINAO",
+    "Grupo": "CAIPIVODKAS"
+  },
+  {
+    "Produto": "407-COQUETEL COM ALCOOL ABACAXI",
+    "Código": 407,
+    "Descrição": "COQUETEL COM ALCOOL ABACAXI",
+    "Grupo": "COQUETEIS COM ALCOOL"
+  },
+  {
+    "Produto": "408-COQUETEL COM ALCOOL LIMAO",
+    "Código": 408,
+    "Descrição": "COQUETEL COM ALCOOL LIMAO",
+    "Grupo": "COQUETEIS COM ALCOOL"
+  },
+  {
+    "Produto": "409-COQUETEL COM ALCOOL MARACUJA",
+    "Código": 409,
+    "Descrição": "COQUETEL COM ALCOOL MARACUJA",
+    "Grupo": "COQUETEIS COM ALCOOL"
+  },
+  {
+    "Produto": "410-COQUETEL COM ALCOOL MORANGO",
+    "Código": 410,
+    "Descrição": "COQUETEL COM ALCOOL MORANGO",
+    "Grupo": "COQUETEIS COM ALCOOL"
+  },
+  {
+    "Produto": "411-COQUETEL SEM ALCOOL ABACAXI",
+    "Código": 411,
+    "Descrição": "COQUETEL SEM ALCOOL ABACAXI",
+    "Grupo": "COQUETEIS SEM ALCOOL"
+  },
+  {
+    "Produto": "412-COQUETEL SEM ALCOOL LIMAO",
+    "Código": 412,
+    "Descrição": "COQUETEL SEM ALCOOL LIMAO",
+    "Grupo": "COQUETEIS SEM ALCOOL"
+  },
+  {
+    "Produto": "413-COQUETEL SEM ALCOOL MARACUJA",
+    "Código": 413,
+    "Descrição": "COQUETEL SEM ALCOOL MARACUJA",
+    "Grupo": "COQUETEIS SEM ALCOOL"
+  },
+  {
+    "Produto": "414-COQUETEL SEM ALCOOL MORANGO",
+    "Código": 414,
+    "Descrição": "COQUETEL SEM ALCOOL MORANGO",
+    "Grupo": "COQUETEIS SEM ALCOOL"
+  },
+  {
+    "Produto": "415-CUSCUZ",
+    "Código": 415,
+    "Descrição": "CUSCUZ",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "416-FATIA DE BOLO COMUM",
+    "Código": 416,
+    "Descrição": "FATIA DE BOLO COMUM",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "417-FATIA DE MAMAO",
+    "Código": 417,
+    "Descrição": "FATIA DE MAMAO",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "418-FATIA DE MELAO",
+    "Código": 418,
+    "Descrição": "FATIA DE MELAO",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "419-FATIA DE PRESUNTO",
+    "Código": 419,
+    "Descrição": "FATIA DE PRESUNTO",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "420-FATIA DE QUEIJO COALHO",
+    "Código": 420,
+    "Descrição": "FATIA DE QUEIJO COALHO",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "421-PAO COMUM",
+    "Código": 421,
+    "Descrição": "PAO COMUM",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "422-TAPIOCA",
+    "Código": 422,
+    "Descrição": "TAPIOCA",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "423-XICARA DE CAFE",
+    "Código": 423,
+    "Descrição": "XICARA DE CAFE",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "424-XICARA DE LEITE",
+    "Código": 424,
+    "Descrição": "XICARA DE LEITE",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "425-GIN ROCKS GF",
+    "Código": 425,
+    "Descrição": "GIN ROCKS GF",
+    "Grupo": "GARRAFAS GINS"
+  },
+  {
+    "Produto": "426-LICOR CREME DE MENTA GF",
+    "Código": 426,
+    "Descrição": "LICOR CREME DE MENTA GF",
+    "Grupo": "GARRAFAS LICORES"
+  },
+  {
+    "Produto": "427-LICOR CURACAU BLUE GF",
+    "Código": 427,
+    "Descrição": "LICOR CURACAU BLUE GF",
+    "Grupo": "GARRAFAS LICORES"
+  },
+  {
+    "Produto": "428-RUM BACARDI GF",
+    "Código": 428,
+    "Descrição": "RUM BACARDI GF",
+    "Grupo": "GARRAFAS RUNS"
+  },
+  {
+    "Produto": "429-carne de sol mp",
+    "Código": 429,
+    "Descrição": "carne de sol mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "430-contra file mp",
+    "Código": 430,
+    "Descrição": "contra file mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "431-cordao do file mignon mp",
+    "Código": 431,
+    "Descrição": "cordao do file mignon mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "432-file mignon mp",
+    "Código": 432,
+    "Descrição": "file mignon mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "433-fraldinha mp",
+    "Código": 433,
+    "Descrição": "fraldinha mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "434-picanha importada mp",
+    "Código": 434,
+    "Descrição": "picanha importada mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "435-agua para producao mp",
+    "Código": 435,
+    "Descrição": "agua para producao mp",
+    "Grupo": "AGUA PARA PRODUCAO"
+  },
+  {
+    "Produto": "436-batata pre frita mp",
+    "Código": 436,
+    "Descrição": "batata pre frita mp",
+    "Grupo": "CONGELADOS"
+  },
+  {
+    "Produto": "437-alcaparra mp",
+    "Código": 437,
+    "Descrição": "alcaparra mp",
+    "Grupo": "CONSERVAS"
+  },
+  {
+    "Produto": "438-cogumelo champignon mp",
+    "Código": 438,
+    "Descrição": "cogumelo champignon mp",
+    "Grupo": "CONSERVAS"
+  },
+  {
+    "Produto": "439-fiambre mp",
+    "Código": 439,
+    "Descrição": "fiambre mp",
+    "Grupo": "EMBUTIDOS"
+  },
+  {
+    "Produto": "440-lanche apresuntado mp",
+    "Código": 440,
+    "Descrição": "lanche apresuntado mp",
+    "Grupo": "EMBUTIDOS"
+  },
+  {
+    "Produto": "441-linguica calabresa mp",
+    "Código": 441,
+    "Descrição": "linguica calabresa mp",
+    "Grupo": "EMBUTIDOS"
+  },
+  {
+    "Produto": "442-linguica suina mp",
+    "Código": 442,
+    "Descrição": "linguica suina mp",
+    "Grupo": "EMBUTIDOS"
+  },
+  {
+    "Produto": "443-presunto de peru mp",
+    "Código": 443,
+    "Descrição": "presunto de peru mp",
+    "Grupo": "EMBUTIDOS"
+  },
+  {
+    "Produto": "444-salsicha mp",
+    "Código": 444,
+    "Descrição": "salsicha mp",
+    "Grupo": "EMBUTIDOS"
+  },
+  {
+    "Produto": "445-coxa e sobrecoxa mp",
+    "Código": 445,
+    "Descrição": "coxa e sobrecoxa mp",
+    "Grupo": "FRANGOS E DERIVADOS"
+  },
+  {
+    "Produto": "446-file de peito de frango mp",
+    "Código": 446,
+    "Descrição": "file de peito de frango mp",
+    "Grupo": "FRANGOS E DERIVADOS"
+  },
+  {
+    "Produto": "447-frango inteiro mp",
+    "Código": 447,
+    "Descrição": "frango inteiro mp",
+    "Grupo": "FRANGOS E DERIVADOS"
+  },
+  {
+    "Produto": "448-galinha inteira mp",
+    "Código": 448,
+    "Descrição": "galinha inteira mp",
+    "Grupo": "FRANGOS E DERIVADOS"
+  },
+  {
+    "Produto": "449-ovo mp",
+    "Código": 449,
+    "Descrição": "ovo mp",
+    "Grupo": "FRANGOS E DERIVADOS"
+  },
+  {
+    "Produto": "450-coentro mp",
+    "Código": 450,
+    "Descrição": "coentro mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "451-mamao mp",
+    "Código": 451,
+    "Descrição": "mamao mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "452-melao mp",
+    "Código": 452,
+    "Descrição": "melao mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "453-pimentao mp",
+    "Código": 453,
+    "Descrição": "pimentao mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "454-tomate mp",
+    "Código": 454,
+    "Descrição": "tomate mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "455-laranja mp",
+    "Código": 455,
+    "Descrição": "laranja mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "456-limao mp",
+    "Código": 456,
+    "Descrição": "limao mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "457-maracuja mp",
+    "Código": 457,
+    "Descrição": "maracuja mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "458-morango mp",
+    "Código": 458,
+    "Descrição": "morango mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "459-abacaxi mp",
+    "Código": 459,
+    "Descrição": "abacaxi mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "460-aipim mp",
+    "Código": 460,
+    "Descrição": "aipim mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "461-alface mp",
+    "Código": 461,
+    "Descrição": "alface mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "462-alho mp",
+    "Código": 462,
+    "Descrição": "alho mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "463-batata inglesa mp",
+    "Código": 463,
+    "Descrição": "batata inglesa mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "464-brocolis mp",
+    "Código": 464,
+    "Descrição": "brocolis mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "465-cebola branca mp",
+    "Código": 465,
+    "Descrição": "cebola branca mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "466-cenoura mp",
+    "Código": 466,
+    "Descrição": "cenoura mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "467-leite mp",
+    "Código": 467,
+    "Descrição": "leite mp",
+    "Grupo": "LATICINIOS"
+  },
+  {
+    "Produto": "468-leite condensado mp",
+    "Código": 468,
+    "Descrição": "leite condensado mp",
+    "Grupo": "LATICINIOS"
+  },
+  {
+    "Produto": "469-margarina mp",
+    "Código": 469,
+    "Descrição": "margarina mp",
+    "Grupo": "LATICINIOS"
+  },
+  {
+    "Produto": "470-queijo coalho mp",
+    "Código": 470,
+    "Descrição": "queijo coalho mp",
+    "Grupo": "LATICINIOS"
+  },
+  {
+    "Produto": "471-queijo mussarela mp",
+    "Código": 471,
+    "Descrição": "queijo mussarela mp",
+    "Grupo": "LATICINIOS"
+  },
+  {
+    "Produto": "472-oleo composto soja e oliva mp",
+    "Código": 472,
+    "Descrição": "oleo composto soja e oliva mp",
+    "Grupo": "OLEOS E GORDURAS"
+  },
+  {
+    "Produto": "473-salmao mp",
+    "Código": 473,
+    "Descrição": "salmao mp",
+    "Grupo": "PEIXES E FRUTOS DO MAR"
+  },
+  {
+    "Produto": "474-tilapia mp",
+    "Código": 474,
+    "Descrição": "tilapia mp",
+    "Grupo": "PEIXES E FRUTOS DO MAR"
+  },
+  {
+    "Produto": "475-camarao mp",
+    "Código": 475,
+    "Descrição": "camarao mp",
+    "Grupo": "PEIXES E FRUTOS DO MAR"
+  },
+  {
+    "Produto": "476-acucar mp",
+    "Código": 476,
+    "Descrição": "acucar mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "477-arroz branco mp",
+    "Código": 477,
+    "Descrição": "arroz branco mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "478-arroz parboilizado mp",
+    "Código": 478,
+    "Descrição": "arroz parboilizado mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "479-bolo comum mp",
+    "Código": 479,
+    "Descrição": "bolo comum mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "480-creme culinario mp",
+    "Código": 480,
+    "Descrição": "creme culinario mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "481-ervilha mp",
+    "Código": 481,
+    "Descrição": "ervilha mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "482-extrato de tomate mp",
+    "Código": 482,
+    "Descrição": "extrato de tomate mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "483-farinha de mandioca mp",
+    "Código": 483,
+    "Descrição": "farinha de mandioca mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "484-farinha de rosca mp",
+    "Código": 484,
+    "Descrição": "farinha de rosca mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "485-farinha de trigo mp",
+    "Código": 485,
+    "Descrição": "farinha de trigo mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "486-feijao branco mp",
+    "Código": 486,
+    "Descrição": "feijao branco mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "487-feijao preto mp",
+    "Código": 487,
+    "Descrição": "feijao preto mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "488-flocos de milho mp",
+    "Código": 488,
+    "Descrição": "flocos de milho mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "489-goma mp",
+    "Código": 489,
+    "Descrição": "goma mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "490-ketchup mp",
+    "Código": 490,
+    "Descrição": "ketchup mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "491-leite de coco mp",
+    "Código": 491,
+    "Descrição": "leite de coco mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "492-macarrao espaguete mp",
+    "Código": 492,
+    "Descrição": "macarrao espaguete mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "493-maionese mp",
+    "Código": 493,
+    "Descrição": "maionese mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "494-molho de tomate mp",
+    "Código": 494,
+    "Descrição": "molho de tomate mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "495-molho escuro em po mp",
+    "Código": 495,
+    "Descrição": "molho escuro em po mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "496-molho madeira em po mp",
+    "Código": 496,
+    "Descrição": "molho madeira em po mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "497-molho tonkatsu mp",
+    "Código": 497,
+    "Descrição": "molho tonkatsu mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "498-sal grosso mp",
+    "Código": 498,
+    "Descrição": "sal grosso mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "499-sal refinado mp",
+    "Código": 499,
+    "Descrição": "sal refinado mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "500-vinagre mp",
+    "Código": 500,
+    "Descrição": "vinagre mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "501-bacon mp",
+    "Código": 501,
+    "Descrição": "bacon mp",
+    "Grupo": "SUINOS E DERIVADOS"
+  },
+  {
+    "Produto": "502-carne suina mp",
+    "Código": 502,
+    "Descrição": "carne suina mp",
+    "Grupo": "SUINOS E DERIVADOS"
+  },
+  {
+    "Produto": "503-carne suina funcionarios mp",
+    "Código": 503,
+    "Descrição": "carne suina funcionarios mp",
+    "Grupo": "SUINOS E DERIVADOS"
+  },
+  {
+    "Produto": "504-costela suina mp",
+    "Código": 504,
+    "Descrição": "costela suina mp",
+    "Grupo": "SUINOS E DERIVADOS"
+  },
+  {
+    "Produto": "505-toucinho mp",
+    "Código": 505,
+    "Descrição": "toucinho mp",
+    "Grupo": "SUINOS E DERIVADOS"
+  },
+  {
+    "Produto": "506-amaciante de carne mp",
+    "Código": 506,
+    "Descrição": "amaciante de carne mp",
+    "Grupo": "TEMPEROS E CORANTES"
+  },
+  {
+    "Produto": "507-coloral mp",
+    "Código": 507,
+    "Descrição": "coloral mp",
+    "Grupo": "TEMPEROS E CORANTES"
+  },
+  {
+    "Produto": "508-manjericao mp",
+    "Código": 508,
+    "Descrição": "manjericao mp",
+    "Grupo": "TEMPEROS E CORANTES"
+  },
+  {
+    "Produto": "509-acafrao em po mp",
+    "Código": 509,
+    "Descrição": "acafrao em po mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "510-suino limpo mp",
+    "Código": 510,
+    "Descrição": "suino limpo mp",
+    "Grupo": "SUINOS E DERIVADOS"
+  },
+  {
+    "Produto": "511-cobertura de chocolate mp",
+    "Código": 511,
+    "Descrição": "cobertura de chocolate mp",
+    "Grupo": "XAROPES E COBERTURAS"
+  },
+  {
+    "Produto": "512-cobertura de morango mp",
+    "Código": 512,
+    "Descrição": "cobertura de morango mp",
+    "Grupo": "XAROPES E COBERTURAS"
+  },
+  {
+    "Produto": "513-groselha asa branca mp",
+    "Código": 513,
+    "Descrição": "groselha asa branca mp",
+    "Grupo": "XAROPES E COBERTURAS"
+  },
+  {
+    "Produto": "514-suco em po de morango mp",
+    "Código": 514,
+    "Descrição": "suco em po de morango mp",
+    "Grupo": "XAROPES E COBERTURAS"
+  },
+  {
+    "Produto": "515-azeite de oliva mp",
+    "Código": 515,
+    "Descrição": "azeite de oliva mp",
+    "Grupo": "AZEITES"
+  },
+  {
+    "Produto": "516-cafe em po mp",
+    "Código": 516,
+    "Descrição": "cafe em po mp",
+    "Grupo": "CAFES"
+  },
+  {
+    "Produto": "517-gelo mp",
+    "Código": 517,
+    "Descrição": "gelo mp",
+    "Grupo": "GELO"
+  },
+  {
+    "Produto": "518-molho de pimenta tabasco mp",
+    "Código": 518,
+    "Descrição": "molho de pimenta tabasco mp",
+    "Grupo": "MOLHOS"
+  },
+  {
+    "Produto": "519-oleo de soja",
+    "Código": 519,
+    "Descrição": "oleo de soja",
+    "Grupo": "OLEO DE SOJA"
+  },
+  {
+    "Produto": "520-palito dental",
+    "Código": 520,
+    "Descrição": "palito dental",
+    "Grupo": "PALITO DENTAL"
+  },
+  {
+    "Produto": "521-guardanapo",
+    "Código": 521,
+    "Descrição": "guardanapo",
+    "Grupo": "GUARDANAPOS E PAPEL TOALHA"
+  },
+  {
+    "Produto": "522-carvao",
+    "Código": 522,
+    "Descrição": "carvao",
+    "Grupo": "CARVAO"
+  },
+  {
+    "Produto": "523-gas",
+    "Código": 523,
+    "Descrição": "gas",
+    "Grupo": "GAS"
+  },
+  {
+    "Produto": "524-prep cafe",
+    "Código": 524,
+    "Descrição": "prep cafe",
+    "Grupo": "PRE PREPARO BAR"
+  },
+  {
+    "Produto": "525-prep leite cozido",
+    "Código": 525,
+    "Descrição": "prep leite cozido",
+    "Grupo": "PRE PREPARO BAR"
+  },
+  {
+    "Produto": "526-prep polpa maracuja com sement",
+    "Código": 526,
+    "Descrição": "prep polpa maracuja com sement",
+    "Grupo": "PRE PREPARO BAR"
+  },
+  {
+    "Produto": "527-prep polpa maracuja sem sement",
+    "Código": 527,
+    "Descrição": "prep polpa maracuja sem sement",
+    "Grupo": "PRE PREPARO BAR"
+  },
+  {
+    "Produto": "528-prep alho em pasta",
+    "Código": 528,
+    "Descrição": "prep alho em pasta",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "529-prep alho sem casca",
+    "Código": 529,
+    "Descrição": "prep alho sem casca",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "530-prep arroz cozido",
+    "Código": 530,
+    "Descrição": "prep arroz cozido",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "531-prep bacon picado",
+    "Código": 531,
+    "Descrição": "prep bacon picado",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "532-prep batata palha frita",
+    "Código": 532,
+    "Descrição": "prep batata palha frita",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "533-prep carne suina limpa",
+    "Código": 533,
+    "Descrição": "prep carne suina limpa",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "534-prep cebola branc sem casca",
+    "Código": 534,
+    "Descrição": "prep cebola branc sem casca",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "535-prep cenoura picada",
+    "Código": 535,
+    "Descrição": "prep cenoura picada",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "536-prep coentro picado",
+    "Código": 536,
+    "Descrição": "prep coentro picado",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "537-prep contra file limpo",
+    "Código": 537,
+    "Descrição": "prep contra file limpo",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "538-prep cordao do file mignon",
+    "Código": 538,
+    "Descrição": "prep cordao do file mignon",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "539-prep cordao file mignon moido",
+    "Código": 539,
+    "Descrição": "prep cordao file mignon moido",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "540-prep costela suina",
+    "Código": 540,
+    "Descrição": "prep costela suina",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "541-prep derivados do cordao fm",
+    "Código": 541,
+    "Descrição": "prep derivados do cordao fm",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "542-prep feijao branco cozido",
+    "Código": 542,
+    "Descrição": "prep feijao branco cozido",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "543-prep feijao preto cozido",
+    "Código": 543,
+    "Descrição": "prep feijao preto cozido",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "544-prep file de peito frango",
+    "Código": 544,
+    "Descrição": "prep file de peito frango",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "545-prep file de tilapia",
+    "Código": 545,
+    "Descrição": "prep file de tilapia",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "546-prep fraldinha moida",
+    "Código": 546,
+    "Descrição": "prep fraldinha moida",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "547-prep lanche apresunt picado",
+    "Código": 547,
+    "Descrição": "prep lanche apresunt picado",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "548-prep legumes a grega",
+    "Código": 548,
+    "Descrição": "prep legumes a grega",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "549-prep massa fettuccine",
+    "Código": 549,
+    "Descrição": "prep massa fettuccine",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "550-prep massa rondelli",
+    "Código": 550,
+    "Descrição": "prep massa rondelli",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "551-prep molho branco",
+    "Código": 551,
+    "Descrição": "prep molho branco",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "552-prep molho madeira",
+    "Código": 552,
+    "Descrição": "prep molho madeira",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "553-prep molho rose",
+    "Código": 553,
+    "Descrição": "prep molho rose",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "554-prep molho vermelho",
+    "Código": 554,
+    "Descrição": "prep molho vermelho",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "555-prep oleo de porco",
+    "Código": 555,
+    "Descrição": "prep oleo de porco",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "556-prep pimentao picado",
+    "Código": 556,
+    "Descrição": "prep pimentao picado",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "557-porcao aipim limpo e cozido",
+    "Código": 557,
+    "Descrição": "porcao aipim limpo e cozido",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "558-porcao brocolis limpo e cozido",
+    "Código": 558,
+    "Descrição": "porcao brocolis limpo e cozido",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "559-porcao de camarao",
+    "Código": 559,
+    "Descrição": "porcao de camarao",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "560-porcao linguica suina",
+    "Código": 560,
+    "Descrição": "porcao linguica suina",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "561-porcao frango a passarinho",
+    "Código": 561,
+    "Descrição": "porcao frango a passarinho",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "562-porcao nugget frango",
+    "Código": 562,
+    "Descrição": "porcao nugget frango",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "563-porcao nugget peixe",
+    "Código": 563,
+    "Descrição": "porcao nugget peixe",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "564-porcao queijo milanesa",
+    "Código": 564,
+    "Descrição": "porcao queijo milanesa",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "565-prep recheio do rondelli",
+    "Código": 565,
+    "Descrição": "prep recheio do rondelli",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "566-prep rondelli massa recheada",
+    "Código": 566,
+    "Descrição": "prep rondelli massa recheada",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "567-prep file de salmao",
+    "Código": 567,
+    "Descrição": "prep file de salmao",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "568-tilapia limpa mp",
+    "Código": 568,
+    "Descrição": "tilapia limpa mp",
+    "Grupo": "PEIXES E FRUTOS DO MAR"
+  },
+  {
+    "Produto": "569-bobina picotada 20x30",
+    "Código": 569,
+    "Descrição": "bobina picotada 20x30",
+    "Grupo": "BOBINAS"
+  },
+  {
+    "Produto": "570-bobina picotada 30x40",
+    "Código": 570,
+    "Descrição": "bobina picotada 30x40",
+    "Grupo": "BOBINAS"
+  },
+  {
+    "Produto": "571-bobina picotada 40x60",
+    "Código": 571,
+    "Descrição": "bobina picotada 40x60",
+    "Grupo": "BOBINAS"
+  },
+  {
+    "Produto": "572-canudo plastico",
+    "Código": 572,
+    "Descrição": "canudo plastico",
+    "Grupo": "DESCARTAVEIS"
+  },
+  {
+    "Produto": "573-copo descartavel 180ml",
+    "Código": 573,
+    "Descrição": "copo descartavel 180ml",
+    "Grupo": "DESCARTAVEIS"
+  },
+  {
+    "Produto": "574-copo descartavel 50ml",
+    "Código": 574,
+    "Descrição": "copo descartavel 50ml",
+    "Grupo": "DESCARTAVEIS"
+  },
+  {
+    "Produto": "575-copo descartavel 400ml",
+    "Código": 575,
+    "Descrição": "copo descartavel 400ml",
+    "Grupo": "DESCARTAVEIS"
+  },
+  {
+    "Produto": "576-guarda chuva coquetel",
+    "Código": 576,
+    "Descrição": "guarda chuva coquetel",
+    "Grupo": "DESCARTAVEIS"
+  },
+  {
+    "Produto": "577-pote descartavel 100ml",
+    "Código": 577,
+    "Descrição": "pote descartavel 100ml",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "578-tampa descartavel 100ml",
+    "Código": 578,
+    "Descrição": "tampa descartavel 100ml",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "579-embalagem para pudim",
+    "Código": 579,
+    "Descrição": "embalagem para pudim",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "580-quentinha de aluminio",
+    "Código": 580,
+    "Descrição": "quentinha de aluminio",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "581-quentinha de isopor m50",
+    "Código": 581,
+    "Descrição": "quentinha de isopor m50",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "582-azulim",
+    "Código": 582,
+    "Descrição": "azulim",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "583-barrilha",
+    "Código": 583,
+    "Descrição": "barrilha",
+    "Grupo": "MATERIAIS DA PISCINA"
+  },
+  {
+    "Produto": "584-cloro",
+    "Código": 584,
+    "Descrição": "cloro",
+    "Grupo": "MATERIAIS DA PISCINA"
+  },
+  {
+    "Produto": "585-elevador de alcalinidade",
+    "Código": 585,
+    "Descrição": "elevador de alcalinidade",
+    "Grupo": "MATERIAIS DA PISCINA"
+  },
+  {
+    "Produto": "586-sulfato",
+    "Código": 586,
+    "Descrição": "sulfato",
+    "Grupo": "MATERIAIS DA PISCINA"
+  },
+  {
+    "Produto": "587-inseticida zero in",
+    "Código": 587,
+    "Descrição": "inseticida zero in",
+    "Grupo": "MATERIAIS DE DEDETIZACAO"
+  },
+  {
+    "Produto": "588-agua sanitaria",
+    "Código": 588,
+    "Descrição": "agua sanitaria",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "589-alcool em gel",
+    "Código": 589,
+    "Descrição": "alcool em gel",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "590-alcool liquido",
+    "Código": 590,
+    "Descrição": "alcool liquido",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "591-cera liquida",
+    "Código": 591,
+    "Descrição": "cera liquida",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "592-desinfetante liquido",
+    "Código": 592,
+    "Descrição": "desinfetante liquido",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "593-detergente liquido",
+    "Código": 593,
+    "Descrição": "detergente liquido",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "594-esponja de lavar louca",
+    "Código": 594,
+    "Descrição": "esponja de lavar louca",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "595-limpa alumínio",
+    "Código": 595,
+    "Descrição": "limpa alumínio",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "596-luva latex multiuso",
+    "Código": 596,
+    "Descrição": "luva latex multiuso",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "597-multiuso original cif",
+    "Código": 597,
+    "Descrição": "multiuso original cif",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "598-pano de chao",
+    "Código": 598,
+    "Descrição": "pano de chao",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "599-papel higienico",
+    "Código": 599,
+    "Descrição": "papel higienico",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "600-papel toalha",
+    "Código": 600,
+    "Descrição": "papel toalha",
+    "Grupo": "GUARDANAPOS E PAPEL TOALHA"
+  },
+  {
+    "Produto": "601-pedra sanitaria",
+    "Código": 601,
+    "Descrição": "pedra sanitaria",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "602-sabao em po",
+    "Código": 602,
+    "Descrição": "sabao em po",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "603-saco de lixo 100L",
+    "Código": 603,
+    "Descrição": "saco de lixo 100L",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "604-saco de lixo 60L",
+    "Código": 604,
+    "Descrição": "saco de lixo 60L",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "605-sacola plastica branca 38x48",
+    "Código": 605,
+    "Descrição": "sacola plastica branca 38x48",
+    "Grupo": "SACOLAS"
+  },
+  {
+    "Produto": "606-sacola reforcada verde",
+    "Código": 606,
+    "Descrição": "sacola reforcada verde",
+    "Grupo": "SACOLAS"
+  },
+  {
+    "Produto": "607-sacola reciclavel",
+    "Código": 607,
+    "Descrição": "sacola reciclavel",
+    "Grupo": "SACOLAS"
+  },
+  {
+    "Produto": "608-porcao carne de sol",
+    "Código": 608,
+    "Descrição": "porcao carne de sol",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "609-prep aipim limpo e cozido",
+    "Código": 609,
+    "Descrição": "prep aipim limpo e cozido",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "610-prep brocolis limpo e cozido",
+    "Código": 610,
+    "Descrição": "prep brocolis limpo e cozido",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "611-CO CM ARROZ A GREGA",
+    "Código": 611,
+    "Descrição": "CO CM ARROZ A GREGA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "612-CO CM ARROZ A PIAMONTESE",
+    "Código": 612,
+    "Descrição": "CO CM ARROZ A PIAMONTESE",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "613-CO CM ARROZ BRANCO",
+    "Código": 613,
+    "Descrição": "CO CM ARROZ BRANCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "614-CO CM ARROZ COM ACAFRAO",
+    "Código": 614,
+    "Descrição": "CO CM ARROZ COM ACAFRAO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "615-CO CM ARROZ COM BROCOLIS",
+    "Código": 615,
+    "Descrição": "CO CM ARROZ COM BROCOLIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "616-CO CM ARROZ DE FORNO",
+    "Código": 616,
+    "Descrição": "CO CM ARROZ DE FORNO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "617-CO CM ARROZ MALUCO",
+    "Código": 617,
+    "Descrição": "CO CM ARROZ MALUCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "618-CO CM BAIAO DE DOIS",
+    "Código": 618,
+    "Descrição": "CO CM BAIAO DE DOIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "619-CO EXEC ARROZ A GREGA",
+    "Código": 619,
+    "Descrição": "CO EXEC ARROZ A GREGA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "620-CO EXEC ARROZ A PIAMONTESE",
+    "Código": 620,
+    "Descrição": "CO EXEC ARROZ A PIAMONTESE",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "621-CO EXEC ARROZ BRANCO",
+    "Código": 621,
+    "Descrição": "CO EXEC ARROZ BRANCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "622-CO EXEC ARROZ COM ACAFRAO",
+    "Código": 622,
+    "Descrição": "CO EXEC ARROZ COM ACAFRAO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "623-CO EXEC ARROZ COM BROCOLIS",
+    "Código": 623,
+    "Descrição": "CO EXEC ARROZ COM BROCOLIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "624-CO EXEC ARROZ DE FORNO",
+    "Código": 624,
+    "Descrição": "CO EXEC ARROZ DE FORNO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "625-CO EXEC ARROZ MALUCO",
+    "Código": 625,
+    "Descrição": "CO EXEC ARROZ MALUCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "626-CO EXEC BAIAO DE DOIS",
+    "Código": 626,
+    "Descrição": "CO EXEC BAIAO DE DOIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "627-CO BATATA FRITA",
+    "Código": 627,
+    "Descrição": "CO BATATA FRITA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "628-CO AIPIM FRITO",
+    "Código": 628,
+    "Descrição": "CO AIPIM FRITO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "629-aperitivo campari mp",
+    "Código": 629,
+    "Descrição": "aperitivo campari mp",
+    "Grupo": "APERITIVAS"
+  },
+  {
+    "Produto": "630-cachaca 51 ouro mp",
+    "Código": 630,
+    "Descrição": "cachaca 51 ouro mp",
+    "Grupo": "CACHACAS"
+  },
+  {
+    "Produto": "631-cachaca 51 prata mp",
+    "Código": 631,
+    "Descrição": "cachaca 51 prata mp",
+    "Grupo": "CACHACAS"
+  },
+  {
+    "Produto": "632-cachaca velho barreiro mp",
+    "Código": 632,
+    "Descrição": "cachaca velho barreiro mp",
+    "Grupo": "CACHACAS"
+  },
+  {
+    "Produto": "633-cachaca ypioca 150 mp",
+    "Código": 633,
+    "Descrição": "cachaca ypioca 150 mp",
+    "Grupo": "CACHACAS"
+  },
+  {
+    "Produto": "634-cachaca ypioca empalhada mp",
+    "Código": 634,
+    "Descrição": "cachaca ypioca empalhada mp",
+    "Grupo": "CACHACAS"
+  },
+  {
+    "Produto": "635-cachaca ypioca ouro mp",
+    "Código": 635,
+    "Descrição": "cachaca ypioca ouro mp",
+    "Grupo": "CACHACAS"
+  },
+  {
+    "Produto": "636-cachaca ypioca prata mp",
+    "Código": 636,
+    "Descrição": "cachaca ypioca prata mp",
+    "Grupo": "CACHACAS"
+  },
+  {
+    "Produto": "637-conhaque dreher mp",
+    "Código": 637,
+    "Descrição": "conhaque dreher mp",
+    "Grupo": "CONHAQUES"
+  },
+  {
+    "Produto": "638-gin rocks mp",
+    "Código": 638,
+    "Descrição": "gin rocks mp",
+    "Grupo": "GINS"
+  },
+  {
+    "Produto": "639-gin tanqueray mp",
+    "Código": 639,
+    "Descrição": "gin tanqueray mp",
+    "Grupo": "GINS"
+  },
+  {
+    "Produto": "640-licor 43 mp",
+    "Código": 640,
+    "Descrição": "licor 43 mp",
+    "Grupo": "GINS"
+  },
+  {
+    "Produto": "641-licor cointreau mp",
+    "Código": 641,
+    "Descrição": "licor cointreau mp",
+    "Grupo": "LICORES"
+  },
+  {
+    "Produto": "642-licor creme de menta mp",
+    "Código": 642,
+    "Descrição": "licor creme de menta mp",
+    "Grupo": "LICORES"
+  },
+  {
+    "Produto": "643-licor curacau blue mp",
+    "Código": 643,
+    "Descrição": "licor curacau blue mp",
+    "Grupo": "LICORES"
+  },
+  {
+    "Produto": "644-licor fogo paulista mp",
+    "Código": 644,
+    "Descrição": "licor fogo paulista mp",
+    "Grupo": "LICORES"
+  },
+  {
+    "Produto": "645-rum bacardi mp",
+    "Código": 645,
+    "Descrição": "rum bacardi mp",
+    "Grupo": "RUNS"
+  },
+  {
+    "Produto": "646-rum malibu mp",
+    "Código": 646,
+    "Descrição": "rum malibu mp",
+    "Grupo": "RUNS"
+  },
+  {
+    "Produto": "647-rum montila ouro mp",
+    "Código": 647,
+    "Descrição": "rum montila ouro mp",
+    "Grupo": "RUNS"
+  },
+  {
+    "Produto": "648-rum montila prata mp",
+    "Código": 648,
+    "Descrição": "rum montila prata mp",
+    "Grupo": "RUNS"
+  },
+  {
+    "Produto": "649-tequila jose cuervo ouro mp",
+    "Código": 649,
+    "Descrição": "tequila jose cuervo ouro mp",
+    "Grupo": "TEQUILAS"
+  },
+  {
+    "Produto": "650-tequila jose cuervo prata mp",
+    "Código": 650,
+    "Descrição": "tequila jose cuervo prata mp",
+    "Grupo": "TEQUILAS"
+  },
+  {
+    "Produto": "651-tequila sauza mp",
+    "Código": 651,
+    "Descrição": "tequila sauza mp",
+    "Grupo": "TEQUILAS"
+  },
+  {
+    "Produto": "652-tequila tequiloka mp",
+    "Código": 652,
+    "Descrição": "tequila tequiloka mp",
+    "Grupo": "TEQUILAS"
+  },
+  {
+    "Produto": "653-vodka absolut mp",
+    "Código": 653,
+    "Descrição": "vodka absolut mp",
+    "Grupo": "VODKAS"
+  },
+  {
+    "Produto": "654-vodka ciroc mp",
+    "Código": 654,
+    "Descrição": "vodka ciroc mp",
+    "Grupo": "VODKAS"
+  },
+  {
+    "Produto": "655-vodka orloff mp",
+    "Código": 655,
+    "Descrição": "vodka orloff mp",
+    "Grupo": "VODKAS"
+  },
+  {
+    "Produto": "656-vodka skyy mp",
+    "Código": 656,
+    "Descrição": "vodka skyy mp",
+    "Grupo": "VODKAS"
+  },
+  {
+    "Produto": "657-vodka slova mp",
+    "Código": 657,
+    "Descrição": "vodka slova mp",
+    "Grupo": "VODKAS"
+  },
+  {
+    "Produto": "658-vodka smirnoff mp",
+    "Código": 658,
+    "Descrição": "vodka smirnoff mp",
+    "Grupo": "VODKAS"
+  },
+  {
+    "Produto": "659-whisky ballantines 12a mp",
+    "Código": 659,
+    "Descrição": "whisky ballantines 12a mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "660-whisky ballantines 8a mp",
+    "Código": 660,
+    "Descrição": "whisky ballantines 8a mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "661-whisky black white mp",
+    "Código": 661,
+    "Descrição": "whisky black white mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "662-whisky black label mp",
+    "Código": 662,
+    "Descrição": "whisky black label mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "663-whisky buchanas deluxe mp",
+    "Código": 663,
+    "Descrição": "whisky buchanas deluxe mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "664-whisky chivas regal mp",
+    "Código": 664,
+    "Descrição": "whisky chivas regal mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "665-whisky jack daniels mp",
+    "Código": 665,
+    "Descrição": "whisky jack daniels mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "666-whisky old parr mp",
+    "Código": 666,
+    "Descrição": "whisky old parr mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "667-whisky red label mp",
+    "Código": 667,
+    "Descrição": "whisky red label mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "668-whisky teachers mp",
+    "Código": 668,
+    "Descrição": "whisky teachers mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "669-whisky white horse mp",
+    "Código": 669,
+    "Descrição": "whisky white horse mp",
+    "Grupo": "WHISKIES"
+  },
+  {
+    "Produto": "670-BROWNIE NINHO",
+    "Código": 670,
+    "Descrição": "BROWNIE NINHO",
+    "Grupo": "BROWNIES"
+  },
+  {
+    "Produto": "671-BROWNIE CHOCOLATE",
+    "Código": 671,
+    "Descrição": "BROWNIE CHOCOLATE",
+    "Grupo": "BROWNIES"
+  },
+  {
+    "Produto": "672-BOLO DE POTE NINHO",
+    "Código": 672,
+    "Descrição": "BOLO DE POTE NINHO",
+    "Grupo": "BOLOS E TORTAS"
+  },
+  {
+    "Produto": "673-BOLO DE POTE CHOCOLATE",
+    "Código": 673,
+    "Descrição": "BOLO DE POTE CHOCOLATE",
+    "Grupo": "BOLOS E TORTAS"
+  },
+  {
+    "Produto": "674-CO CACHACA 51 PRATA",
+    "Código": 674,
+    "Descrição": "CO CACHACA 51 PRATA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "675-CO CACHACA VELHO BARREIRO",
+    "Código": 675,
+    "Descrição": "CO CACHACA VELHO BARREIRO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "676-CO CACHACA YPIOCA OURO",
+    "Código": 676,
+    "Descrição": "CO CACHACA YPIOCA OURO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "677-CO CACHACA YPIOCA PRATA",
+    "Código": 677,
+    "Descrição": "CO CACHACA YPIOCA PRATA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "678-CO ABSOLUT",
+    "Código": 678,
+    "Descrição": "CO ABSOLUT",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "679-CO ORLOFF",
+    "Código": 679,
+    "Descrição": "CO ORLOFF",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "680-CO SLOVA",
+    "Código": 680,
+    "Descrição": "CO SLOVA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "681-CO SMIRNOFF",
+    "Código": 681,
+    "Descrição": "CO SMIRNOFF",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "682-CO PISC ABSOLUT",
+    "Código": 682,
+    "Descrição": "CO PISC ABSOLUT",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "683-CO PISC ORLOFF",
+    "Código": 683,
+    "Descrição": "CO PISC ORLOFF",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "684-CO PISC SLOVA",
+    "Código": 684,
+    "Descrição": "CO PISC SLOVA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "685-CO PISC SMIRNOFF",
+    "Código": 685,
+    "Descrição": "CO PISC SMIRNOFF",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "686-LAYS SOUR CREAM",
+    "Código": 686,
+    "Descrição": "LAYS SOUR CREAM",
+    "Grupo": "SALGADINHOS"
+  },
+  {
+    "Produto": "687-mistura de requeijao mp",
+    "Código": 687,
+    "Descrição": "mistura de requeijao mp",
+    "Grupo": "LATICINIOS"
+  },
+  {
+    "Produto": "688-prep farofa",
+    "Código": 688,
+    "Descrição": "prep farofa",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "689-prep vinagrete",
+    "Código": 689,
+    "Descrição": "prep vinagrete",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "690-ARROZ A GREGA KG",
+    "Código": 690,
+    "Descrição": "ARROZ A GREGA KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "691-ARROZ A PIAMONTESE KG",
+    "Código": 691,
+    "Descrição": "ARROZ A PIAMONTESE KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "692-ARROZ BRANCO KG",
+    "Código": 692,
+    "Descrição": "ARROZ BRANCO KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "693-ARROZ COM ACAFRAO KG",
+    "Código": 693,
+    "Descrição": "ARROZ COM ACAFRAO KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "694-ARROZ COM BROCOLIS KG",
+    "Código": 694,
+    "Descrição": "ARROZ COM BROCOLIS KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "695-ARROZ DE FORNO KG",
+    "Código": 695,
+    "Descrição": "ARROZ DE FORNO KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "696-ARROZ MALUCO KG",
+    "Código": 696,
+    "Descrição": "ARROZ MALUCO KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "697-prep file mignon",
+    "Código": 697,
+    "Descrição": "prep file mignon",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "698-porcao fettuccine",
+    "Código": 698,
+    "Descrição": "porcao fettuccine",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "699-coco verde mp",
+    "Código": 699,
+    "Descrição": "coco verde mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "700-prep salpicao",
+    "Código": 700,
+    "Descrição": "prep salpicao",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "701-BATATA ROSTI KG",
+    "Código": 701,
+    "Descrição": "BATATA ROSTI KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "702-MACARRAO ESPAGUETE KG",
+    "Código": 702,
+    "Descrição": "MACARRAO ESPAGUETE KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "703-SALADA VERDE KG",
+    "Código": 703,
+    "Descrição": "SALADA VERDE KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "704-CO QUENT ARROZ A GREGA",
+    "Código": 704,
+    "Descrição": "CO QUENT ARROZ A GREGA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "705-CO QUENT ARROZ A PIAMONTESE",
+    "Código": 705,
+    "Descrição": "CO QUENT ARROZ A PIAMONTESE",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "706-CO QUENT ARROZ BRANCO",
+    "Código": 706,
+    "Descrição": "CO QUENT ARROZ BRANCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "707-CO QUENT ARROZ COM ACAFRAO",
+    "Código": 707,
+    "Descrição": "CO QUENT ARROZ COM ACAFRAO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "708-CO QUENT ARROZ COM BROCOLIS",
+    "Código": 708,
+    "Descrição": "CO QUENT ARROZ COM BROCOLIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "709-CO QUENT ARROZ DE FORNO",
+    "Código": 709,
+    "Descrição": "CO QUENT ARROZ DE FORNO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "710-CO QUENT ARROZ MALUCO",
+    "Código": 710,
+    "Descrição": "CO QUENT ARROZ MALUCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "711-CO QUENT BAIAO DE DOIS",
+    "Código": 711,
+    "Descrição": "CO QUENT BAIAO DE DOIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "712-CO COMP ARROZ A GREGA",
+    "Código": 712,
+    "Descrição": "CO COMP ARROZ A GREGA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "713-CO COMP ARROZ A PIAMONTESE",
+    "Código": 713,
+    "Descrição": "CO COMP ARROZ A PIAMONTESE",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "714-CO COMP ARROZ BRANCO",
+    "Código": 714,
+    "Descrição": "CO COMP ARROZ BRANCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "715-CO COMP ARROZ COM ACAFRAO",
+    "Código": 715,
+    "Descrição": "CO COMP ARROZ COM ACAFRAO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "716-CO COMP ARROZ COM BROCOLIS",
+    "Código": 716,
+    "Descrição": "CO COMP ARROZ COM BROCOLIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "717-CO COMP ARROZ DE FORNO",
+    "Código": 717,
+    "Descrição": "CO COMP ARROZ DE FORNO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "718-CO COMP ARROZ MALUCO",
+    "Código": 718,
+    "Descrição": "CO COMP ARROZ MALUCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "719-CO COMP BAIAO DE DOIS",
+    "Código": 719,
+    "Descrição": "CO COMP BAIAO DE DOIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "720-CO MEIO ARROZ A GREGA",
+    "Código": 720,
+    "Descrição": "CO MEIO ARROZ A GREGA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "721-CO MEIO ARROZ A PIAMONTESE",
+    "Código": 721,
+    "Descrição": "CO MEIO ARROZ A PIAMONTESE",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "722-CO MEIO ARROZ BRANCO",
+    "Código": 722,
+    "Descrição": "CO MEIO ARROZ BRANCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "723-CO MEIO ARROZ COM ACAFRAO",
+    "Código": 723,
+    "Descrição": "CO MEIO ARROZ COM ACAFRAO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "724-CO MEIO ARROZ COM BROCOLIS",
+    "Código": 724,
+    "Descrição": "CO MEIO ARROZ COM BROCOLIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "725-CO MEIO ARROZ DE FORNO",
+    "Código": 725,
+    "Descrição": "CO MEIO ARROZ DE FORNO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "726-CO MEIO ARROZ MALUCO",
+    "Código": 726,
+    "Descrição": "CO MEIO ARROZ MALUCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "727-CO MEIO BAIAO DE DOIS",
+    "Código": 727,
+    "Descrição": "CO MEIO BAIAO DE DOIS",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "728-BAIAO DE DOIS KG",
+    "Código": 728,
+    "Descrição": "BAIAO DE DOIS KG",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "729-prep fiambre picado",
+    "Código": 729,
+    "Descrição": "prep fiambre picado",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "730-vinho casal garcia mp",
+    "Código": 730,
+    "Descrição": "vinho casal garcia mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "731-vinho casileiro del diablo mp",
+    "Código": 731,
+    "Descrição": "vinho casileiro del diablo mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "732-vinho o gaucho seco mp",
+    "Código": 732,
+    "Descrição": "vinho o gaucho seco mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "733-vinho o gaucho suave mp",
+    "Código": 733,
+    "Descrição": "vinho o gaucho suave mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "734-vinho quinta do morg seco mp",
+    "Código": 734,
+    "Descrição": "vinho quinta do morg seco mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "735-vinho quinta do morg suave mp",
+    "Código": 735,
+    "Descrição": "vinho quinta do morg suave mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "736-vinho pergola mp",
+    "Código": 736,
+    "Descrição": "vinho pergola mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "737-vinho reservado mp",
+    "Código": 737,
+    "Descrição": "vinho reservado mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "738-vinho saint germain mp",
+    "Código": 738,
+    "Descrição": "vinho saint germain mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "739-figado de frango mp",
+    "Código": 739,
+    "Descrição": "figado de frango mp",
+    "Grupo": "FRANGOS E DERIVADOS"
+  },
+  {
+    "Produto": "740-sardinha mp",
+    "Código": 740,
+    "Descrição": "sardinha mp",
+    "Grupo": "PEIXES E FRUTOS DO MAR"
+  },
+  {
+    "Produto": "741-MEIO NUGGET DE FRANGO",
+    "Código": 741,
+    "Descrição": "MEIO NUGGET DE FRANGO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "742-MEIO NUGGET DE PEIXE",
+    "Código": 742,
+    "Descrição": "MEIO NUGGET DE PEIXE",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "743-PRATO CAMARAO AO ALHO E OLEO",
+    "Código": 743,
+    "Descrição": "PRATO CAMARAO AO ALHO E OLEO",
+    "Grupo": "PESCADOS"
+  },
+  {
+    "Produto": "744-LINGUICA TOSCANA",
+    "Código": 744,
+    "Descrição": "LINGUICA TOSCANA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "745-VINAGRETE E FAROFA",
+    "Código": 745,
+    "Descrição": "VINAGRETE E FAROFA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "746-PECAS DE RONDELLI 5 UN",
+    "Código": 746,
+    "Descrição": "PECAS DE RONDELLI 5 UN",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "747-DRY MARTINI",
+    "Código": 747,
+    "Descrição": "DRY MARTINI",
+    "Grupo": "DRINKS OUTROS"
+  },
+  {
+    "Produto": "748-vermute martini rosato mp",
+    "Código": 748,
+    "Descrição": "vermute martini rosato mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "749-vermute martini bianco mp",
+    "Código": 749,
+    "Descrição": "vermute martini bianco mp",
+    "Grupo": "VINHOS"
+  },
+  {
+    "Produto": "750-folha de louro mp",
+    "Código": 750,
+    "Descrição": "folha de louro mp",
+    "Grupo": "TEMPEROS E CORANTES"
+  },
+  {
+    "Produto": "751-porcao de fraldinha moida",
+    "Código": 751,
+    "Descrição": "porcao de fraldinha moida",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "752-porcao cordao file mignon moid",
+    "Código": 752,
+    "Descrição": "porcao cordao file mignon moid",
+    "Grupo": "PRE PREPARO COZINHA"
+  },
+  {
+    "Produto": "753-tampa quentinha de isopor m50",
+    "Código": 753,
+    "Descrição": "tampa quentinha de isopor m50",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "754-tampa pote descartavel 100ml",
+    "Código": 754,
+    "Descrição": "tampa pote descartavel 100ml",
+    "Grupo": "EMBALAGENS"
+  },
+  {
+    "Produto": "755-costela bovina mp",
+    "Código": 755,
+    "Descrição": "costela bovina mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "756-PICOLE PARDAL SUPRA COOKIES",
+    "Código": 756,
+    "Descrição": "PICOLE PARDAL SUPRA COOKIES",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "757-PICOLE PARDAL VITA ACAI",
+    "Código": 757,
+    "Descrição": "PICOLE PARDAL VITA ACAI",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "758-PICOLE PARDAL VITA CAJA",
+    "Código": 758,
+    "Descrição": "PICOLE PARDAL VITA CAJA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "759-PICOLE PARDAL VITA MORANGO",
+    "Código": 759,
+    "Descrição": "PICOLE PARDAL VITA MORANGO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "760-CO SKYY",
+    "Código": 760,
+    "Descrição": "CO SKYY",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "761-ENERG MONSTER LATA 473ML",
+    "Código": 761,
+    "Descrição": "ENERG MONSTER LATA 473ML",
+    "Grupo": "ENERGETICOS"
+  },
+  {
+    "Produto": "762-HOSPEDAGEM E CAFE DA MANHA",
+    "Código": 762,
+    "Descrição": "HOSPEDAGEM E CAFE DA MANHA",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "763-COCA-COLA ZERO 2L",
+    "Código": 763,
+    "Descrição": "COCA-COLA ZERO 2L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "764-COCA-COLA ZERO 600ML",
+    "Código": 764,
+    "Descrição": "COCA-COLA ZERO 600ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "765-PEIXE FRITO SIMPLES",
+    "Código": 765,
+    "Descrição": "PEIXE FRITO SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "766-ROLINHOS DE AIPIM",
+    "Código": 766,
+    "Descrição": "ROLINHOS DE AIPIM",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "767-GUARANA ANTARCTICA 600ML",
+    "Código": 767,
+    "Descrição": "GUARANA ANTARCTICA 600ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "768-ENERG RED BULL LATA 250ML",
+    "Código": 768,
+    "Descrição": "ENERG RED BULL LATA 250ML",
+    "Grupo": "ENERGETICOS"
+  },
+  {
+    "Produto": "769-HOSPEDAGEM",
+    "Código": 769,
+    "Descrição": "HOSPEDAGEM",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "770-ESTROGONOFE",
+    "Código": 770,
+    "Descrição": "ESTROGONOFE",
+    "Grupo": "ATACADO"
+  },
+  {
+    "Produto": "771-SORV PARDAL FUN MOCA LIN 140ML",
+    "Código": 771,
+    "Descrição": "SORV PARDAL FUN MOCA LIN 140ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "772-TACA VINHO PERGOLA",
+    "Código": 772,
+    "Descrição": "TACA VINHO PERGOLA",
+    "Grupo": "TACAS VINHOS"
+  },
+  {
+    "Produto": "773-feijao carioca mp",
+    "Código": 773,
+    "Descrição": "feijao carioca mp",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "774-file de camarao mp",
+    "Código": 774,
+    "Descrição": "file de camarao mp",
+    "Grupo": "PEIXES E FRUTOS DO MAR"
+  },
+  {
+    "Produto": "775-colher de mesa inox",
+    "Código": 775,
+    "Descrição": "colher de mesa inox",
+    "Grupo": "TALHERES"
+  },
+  {
+    "Produto": "776-travesa 30cm",
+    "Código": 776,
+    "Descrição": "travesa 30cm",
+    "Grupo": "BANDEIJAS"
+  },
+  {
+    "Produto": "777-travessa 35cm",
+    "Código": 777,
+    "Descrição": "travessa 35cm",
+    "Grupo": "BANDEIJAS"
+  },
+  {
+    "Produto": "778-pote com tampa 5.5L",
+    "Código": 778,
+    "Descrição": "pote com tampa 5.5L",
+    "Grupo": "BANDEIJAS"
+  },
+  {
+    "Produto": "779-frigideira francesa 28cm",
+    "Código": 779,
+    "Descrição": "frigideira francesa 28cm",
+    "Grupo": "PANELAS E FRIGIDEIRAS"
+  },
+  {
+    "Produto": "780-frigideira aluminio 16cm",
+    "Código": 780,
+    "Descrição": "frigideira aluminio 16cm",
+    "Grupo": "PANELAS E FRIGIDEIRAS"
+  },
+  {
+    "Produto": "781-PICOLE PARDAL SUPRA PISTACHE",
+    "Código": 781,
+    "Descrição": "PICOLE PARDAL SUPRA PISTACHE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "782-BARRA CHOCOLATE GAROTO CORES",
+    "Código": 782,
+    "Descrição": "BARRA CHOCOLATE GAROTO CORES",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "783-BARRA CHOCOLATE GAROTO CROCANT",
+    "Código": 783,
+    "Descrição": "BARRA CHOCOLATE GAROTO CROCANT",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "784-BARRA CHOCOLATE GAROTO LEITE",
+    "Código": 784,
+    "Descrição": "BARRA CHOCOLATE GAROTO LEITE",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "785-SORV QUICK SUNDAE",
+    "Código": 785,
+    "Descrição": "SORV QUICK SUNDAE",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "786-SORV QUICK CONE",
+    "Código": 786,
+    "Descrição": "SORV QUICK CONE",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "787-SORV QUICK MAIS",
+    "Código": 787,
+    "Descrição": "SORV QUICK MAIS",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "788-SORV QUICK MINI",
+    "Código": 788,
+    "Descrição": "SORV QUICK MINI",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "789-azeite de dende mp",
+    "Código": 789,
+    "Descrição": "azeite de dende mp",
+    "Grupo": "OLEOS E GORDURAS"
+  },
+  {
+    "Produto": "790-SKOL BEATS SENSES LATA 269ML",
+    "Código": 790,
+    "Descrição": "SKOL BEATS SENSES LATA 269ML",
+    "Grupo": "BEBIDAS MISTAS"
+  },
+  {
+    "Produto": "791-PRATO FEITO DE LINGUICA",
+    "Código": 791,
+    "Descrição": "PRATO FEITO DE LINGUICA",
+    "Grupo": "PRATOS FEITOS"
+  },
+  {
+    "Produto": "792-SALPICAO",
+    "Código": 792,
+    "Descrição": "SALPICAO",
+    "Grupo": "ATACADO"
+  },
+  {
+    "Produto": "793-SORV PARDAL ORIG ACAI BAN 1,5L",
+    "Código": 793,
+    "Descrição": "SORV PARDAL ORIG ACAI BAN 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "794-SORV PARDAL ORIG CASTANHA 1,5L",
+    "Código": 794,
+    "Descrição": "SORV PARDAL ORIG CASTANHA 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "795-SORV PARDAL ORIG CREME PA 1,5L",
+    "Código": 795,
+    "Descrição": "SORV PARDAL ORIG CREME PA 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "796-SORV PARDAL ORIG MILHO 1,5L",
+    "Código": 796,
+    "Descrição": "SORV PARDAL ORIG MILHO 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "797-SORV PARDAL ORIG NATA GO 1,5L",
+    "Código": 797,
+    "Descrição": "SORV PARDAL ORIG NATA GO 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "798-SORV PARDAL ORIG TAPIOCA 1,5L",
+    "Código": 798,
+    "Descrição": "SORV PARDAL ORIG TAPIOCA 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "799-SORV PARDAL CLASS BRIGAD 1,5L",
+    "Código": 799,
+    "Descrição": "SORV PARDAL CLASS BRIGAD 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "800-SORV PARDAL CLASS CREME 1,5L",
+    "Código": 800,
+    "Descrição": "SORV PARDAL CLASS CREME 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "801-SORV PARDAL CLASS FLOCOS 1,5L",
+    "Código": 801,
+    "Descrição": "SORV PARDAL CLASS FLOCOS 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "802-SORV PARDAL CLASS MORANGO 1,5L",
+    "Código": 802,
+    "Descrição": "SORV PARDAL CLASS MORANGO 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "803-SORV PARDAL CLASS NAPOLIT 1,5L",
+    "Código": 803,
+    "Descrição": "SORV PARDAL CLASS NAPOLIT 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "804-SORV PARDAL CLASS PAVE 1,5L",
+    "Código": 804,
+    "Descrição": "SORV PARDAL CLASS PAVE 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "805-SORV PARDAL FUN 3 CHOC 1,5L",
+    "Código": 805,
+    "Descrição": "SORV PARDAL FUN 3 CHOC 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "806-SORV PARDAL FUN DOCE LEIT 1,5L",
+    "Código": 806,
+    "Descrição": "SORV PARDAL FUN DOCE LEIT 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "807-SORV PARDAL FUN MENTA 1,5L",
+    "Código": 807,
+    "Descrição": "SORV PARDAL FUN MENTA 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "808-SORV PARDAL FUN MOCA LIND 1,5L",
+    "Código": 808,
+    "Descrição": "SORV PARDAL FUN MOCA LIND 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "809-FETTUCCINE A BOLONHESA",
+    "Código": 809,
+    "Descrição": "FETTUCCINE A BOLONHESA",
+    "Grupo": "MASSAS ARTESANAIS"
+  },
+  {
+    "Produto": "810-TRIDENT HORTELA",
+    "Código": 810,
+    "Descrição": "TRIDENT HORTELA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "811-HALLS MENTA",
+    "Código": 811,
+    "Descrição": "HALLS MENTA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "812-HALLS EXTRA FORTE",
+    "Código": 812,
+    "Descrição": "HALLS EXTRA FORTE",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "813-COPO YPIOCA OURO",
+    "Código": 813,
+    "Descrição": "COPO YPIOCA OURO",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "814-COPO YPIOCA PRATA",
+    "Código": 814,
+    "Descrição": "COPO YPIOCA PRATA",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "815-PRATO FEITO MISTO",
+    "Código": 815,
+    "Descrição": "PRATO FEITO MISTO",
+    "Grupo": "PRATOS FEITOS"
+  },
+  {
+    "Produto": "816-BUDWEISER LN 330ML",
+    "Código": 816,
+    "Descrição": "BUDWEISER LN 330ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "817-FEIJAO BRANCO",
+    "Código": 817,
+    "Descrição": "FEIJAO BRANCO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "818-SORV PARDAL ORIG COCO RAP 1,5L",
+    "Código": 818,
+    "Descrição": "SORV PARDAL ORIG COCO RAP 1,5L",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "819-SORV PARDAL CLASS BRIGAD 440ML",
+    "Código": 819,
+    "Descrição": "SORV PARDAL CLASS BRIGAD 440ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "820-SORV PARDAL ORIG CASTANH 440ML",
+    "Código": 820,
+    "Descrição": "SORV PARDAL ORIG CASTANH 440ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "821-SORV PARDAL CLASS FLOCOS 440ML",
+    "Código": 821,
+    "Descrição": "SORV PARDAL CLASS FLOCOS 440ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "822-SORV PARDAL FUN MENTA 440ML",
+    "Código": 822,
+    "Descrição": "SORV PARDAL FUN MENTA 440ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "823-SORV PARDAL CLASS NAPOLI 440ML",
+    "Código": 823,
+    "Descrição": "SORV PARDAL CLASS NAPOLI 440ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "824-SORV PARDAL FUN 3 CHOC 440ML",
+    "Código": 824,
+    "Descrição": "SORV PARDAL FUN 3 CHOC 440ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "825-POTE MOLHO MADEIRA",
+    "Código": 825,
+    "Descrição": "POTE MOLHO MADEIRA",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "826-COCA-COLA 1L",
+    "Código": 826,
+    "Descrição": "COCA-COLA 1L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "827-COCA-COLA ZERO 1L",
+    "Código": 827,
+    "Descrição": "COCA-COLA ZERO 1L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "828-CHURRASCO A GAUCHO SIMPLES",
+    "Código": 828,
+    "Descrição": "CHURRASCO A GAUCHO SIMPLES",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "829-conhaque domecq mp",
+    "Código": 829,
+    "Descrição": "conhaque domecq mp",
+    "Grupo": "CONHAQUES"
+  },
+  {
+    "Produto": "830-DOSE CONHAQUE DOMECQ",
+    "Código": 830,
+    "Descrição": "DOSE CONHAQUE DOMECQ",
+    "Grupo": "DOSES CONHAQUES"
+  },
+  {
+    "Produto": "831-PETIT GATEAU COM SORVETE",
+    "Código": 831,
+    "Descrição": "PETIT GATEAU COM SORVETE",
+    "Grupo": "BOLOS E TORTAS"
+  },
+  {
+    "Produto": "832-GUARANA ANTARCTICA 1,5L",
+    "Código": 832,
+    "Descrição": "GUARANA ANTARCTICA 1,5L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "833-GUARANA ANTARCTICA ZERO 1L",
+    "Código": 833,
+    "Descrição": "GUARANA ANTARCTICA ZERO 1L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "834-EXEC FRANGO COM CATUPIRY",
+    "Código": 834,
+    "Descrição": "EXEC FRANGO COM CATUPIRY",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "835-PEDACO DE QUEIJO COALHO",
+    "Código": 835,
+    "Descrição": "PEDACO DE QUEIJO COALHO",
+    "Grupo": "PORCOES EXTRAS"
+  },
+  {
+    "Produto": "836-GARRAFA DE CAFE",
+    "Código": 836,
+    "Descrição": "GARRAFA DE CAFE",
+    "Grupo": "CAFE DA MANHA"
+  },
+  {
+    "Produto": "837-BANHO SEM CONSUMO",
+    "Código": 837,
+    "Descrição": "BANHO SEM CONSUMO",
+    "Grupo": "BANHO"
+  },
+  {
+    "Produto": "838-PICOLE QUICK ZERO CHOCOLATE",
+    "Código": 838,
+    "Descrição": "PICOLE QUICK ZERO CHOCOLATE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "839-SORV QUICK COPAO",
+    "Código": 839,
+    "Descrição": "SORV QUICK COPAO",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "840-SPRITE FRESH",
+    "Código": 840,
+    "Descrição": "SPRITE FRESH",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "841-DOSE GIN ROCKS",
+    "Código": 841,
+    "Descrição": "DOSE GIN ROCKS",
+    "Grupo": "DOSES GINS"
+  },
+  {
+    "Produto": "842-GUARANA ANTARCTICA ZERO 350 ML",
+    "Código": 842,
+    "Descrição": "GUARANA ANTARCTICA ZERO 350 ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "843-BUFFET 40",
+    "Código": 843,
+    "Descrição": "BUFFET 40",
+    "Grupo": "BUFFET"
+  },
+  {
+    "Produto": "844-BUFFET 41",
+    "Código": 844,
+    "Descrição": "BUFFET 41",
+    "Grupo": "BUFFET"
+  },
+  {
+    "Produto": "845-BUFFET 42",
+    "Código": 845,
+    "Descrição": "BUFFET 42",
+    "Grupo": "BUFFET"
+  },
+  {
+    "Produto": "846-BUFFET 43",
+    "Código": 846,
+    "Descrição": "BUFFET 43",
+    "Grupo": "BUFFET"
+  },
+  {
+    "Produto": "847-BUFFET 44",
+    "Código": 847,
+    "Descrição": "BUFFET 44",
+    "Grupo": "BUFFET"
+  },
+  {
+    "Produto": "848-BUFFET 45",
+    "Código": 848,
+    "Descrição": "BUFFET 45",
+    "Grupo": "BUFFET"
+  },
+  {
+    "Produto": "849-CO MOLHO BRANCO",
+    "Código": 849,
+    "Descrição": "CO MOLHO BRANCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "850-CO MOLHO VERMELHO",
+    "Código": 850,
+    "Descrição": "CO MOLHO VERMELHO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "851-CO SALPICAO",
+    "Código": 851,
+    "Descrição": "CO SALPICAO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "852-CO SALADA VERDE",
+    "Código": 852,
+    "Descrição": "CO SALADA VERDE",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "853-SACO DE GELO",
+    "Código": 853,
+    "Descrição": "SACO DE GELO",
+    "Grupo": "GELO"
+  },
+  {
+    "Produto": "854-TRIDENT MELANCIA",
+    "Código": 854,
+    "Descrição": "TRIDENT MELANCIA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "855-CORONA LN 330ML",
+    "Código": 855,
+    "Descrição": "CORONA LN 330ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "856-DELRIO CAJU 250ML",
+    "Código": 856,
+    "Descrição": "DELRIO CAJU 250ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "857-DELRIO CAJU",
+    "Código": 857,
+    "Descrição": "DELRIO CAJU",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "858-DELRIO GUARANA 250ML",
+    "Código": 858,
+    "Descrição": "DELRIO GUARANA 250ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "859-DELRIO GUARANA 500ML",
+    "Código": 859,
+    "Descrição": "DELRIO GUARANA 500ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "860-PICOLE QUICK FRUT UVA",
+    "Código": 860,
+    "Descrição": "PICOLE QUICK FRUT UVA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "861-GRAPETTE UVA ROXA 250ML",
+    "Código": 861,
+    "Descrição": "GRAPETTE UVA ROXA 250ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "862-bicarbonato",
+    "Código": 862,
+    "Descrição": "bicarbonato",
+    "Grupo": "MATERIAIS DA PISCINA"
+  },
+  {
+    "Produto": "863-CO EXEC BATATA FRITA",
+    "Código": 863,
+    "Descrição": "CO EXEC BATATA FRITA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "864-CO EXEC SALPICAO",
+    "Código": 864,
+    "Descrição": "CO EXEC SALPICAO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "865-CO PURE DE BATATA",
+    "Código": 865,
+    "Descrição": "CO PURE DE BATATA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "866-HALLS CEREJA",
+    "Código": 866,
+    "Descrição": "HALLS CEREJA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "867-BOMBOM OURO BRANCO",
+    "Código": 867,
+    "Descrição": "BOMBOM OURO BRANCO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "868-STICK SONHO DE VALSA",
+    "Código": 868,
+    "Descrição": "STICK SONHO DE VALSA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "869-TRIDENT INTENSE",
+    "Código": 869,
+    "Descrição": "TRIDENT INTENSE",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "870-TABLETE LACTA LAKA",
+    "Código": 870,
+    "Descrição": "TABLETE LACTA LAKA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "871-TABLETE LACTA AO LEITE",
+    "Código": 871,
+    "Descrição": "TABLETE LACTA AO LEITE",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "872-COOKIES LACTA LAKA",
+    "Código": 872,
+    "Descrição": "COOKIES LACTA LAKA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "873-COOKIES LACTA AO LEITE",
+    "Código": 873,
+    "Descrição": "COOKIES LACTA AO LEITE",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "874-BISCOITO OREO ORIGINAL",
+    "Código": 874,
+    "Descrição": "BISCOITO OREO ORIGINAL",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "875-BUBBALOO REC LIQ UVA",
+    "Código": 875,
+    "Descrição": "BUBBALOO REC LIQ UVA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "876-BUBBALOO REC LIQ MORANGO",
+    "Código": 876,
+    "Descrição": "BUBBALOO REC LIQ MORANGO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "877-BUBBALOO BALA MORANGO",
+    "Código": 877,
+    "Descrição": "BUBBALOO BALA MORANGO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "878-FLOR DOCE DE LEITE",
+    "Código": 878,
+    "Descrição": "FLOR DOCE DE LEITE",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "879-TRIDENT GF MENTA",
+    "Código": 879,
+    "Descrição": "TRIDENT GF MENTA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "880-TRIDENT GF MORANGO LIME",
+    "Código": 880,
+    "Descrição": "TRIDENT GF MORANGO LIME",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "881-CABARE ICE LN 275ML",
+    "Código": 881,
+    "Descrição": "CABARE ICE LN 275ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "882-EISENBAHN LN 330ML",
+    "Código": 882,
+    "Descrição": "EISENBAHN LN 330ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "883-FANTA CAJU LT 350ML",
+    "Código": 883,
+    "Descrição": "FANTA CAJU LT 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "884-SPRITE ZERO LATA 350ML",
+    "Código": 884,
+    "Descrição": "SPRITE ZERO LATA 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "885-ENERG TNT JUICE MANGO LT 269ML",
+    "Código": 885,
+    "Descrição": "ENERG TNT JUICE MANGO LT 269ML",
+    "Grupo": "ENERGETICOS"
+  },
+  {
+    "Produto": "886-SELF SERVICE SEM PESO",
+    "Código": 886,
+    "Descrição": "SELF SERVICE SEM PESO",
+    "Grupo": "ATACADO"
+  },
+  {
+    "Produto": "887-SELF SERVICE ESPECIAL",
+    "Código": 887,
+    "Descrição": "SELF SERVICE ESPECIAL",
+    "Grupo": "ATACADO"
+  },
+  {
+    "Produto": "888-EXEC PICANHA",
+    "Código": 888,
+    "Descrição": "EXEC PICANHA",
+    "Grupo": "EXECUTIVOS"
+  },
+  {
+    "Produto": "889-COSTELA SUINA APERITIVO",
+    "Código": 889,
+    "Descrição": "COSTELA SUINA APERITIVO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "890-CO EXEC SALADA VERDE",
+    "Código": 890,
+    "Descrição": "CO EXEC SALADA VERDE",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "891-CO EXEC PURE DE BATATA",
+    "Código": 891,
+    "Descrição": "CO EXEC PURE DE BATATA",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "892-DOSE CACHACA AVIADOR PRATA",
+    "Código": 892,
+    "Descrição": "DOSE CACHACA AVIADOR PRATA",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "893-DOSE CACHACA AVIADOR PREMIUM",
+    "Código": 893,
+    "Descrição": "DOSE CACHACA AVIADOR PREMIUM",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "894-DOSE GIN SEAGERS",
+    "Código": 894,
+    "Descrição": "DOSE GIN SEAGERS",
+    "Grupo": "DOSES GINS"
+  },
+  {
+    "Produto": "895-VINHO ARGENTO CABERNET GF",
+    "Código": 895,
+    "Descrição": "VINHO ARGENTO CABERNET GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "896-VINHO ARGENTO MALBEC GF",
+    "Código": 896,
+    "Descrição": "VINHO ARGENTO MALBEC GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "897-DOSE TEQUILA JOSE CUERVO ESPEC",
+    "Código": 897,
+    "Descrição": "DOSE TEQUILA JOSE CUERVO ESPEC",
+    "Grupo": "DOSES TEQUILAS"
+  },
+  {
+    "Produto": "898-STELLA ARTOIS LN 330ML",
+    "Código": 898,
+    "Descrição": "STELLA ARTOIS LN 330ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "899-SPATEN LN 330ML",
+    "Código": 899,
+    "Descrição": "SPATEN LN 330ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "900-TRIDENT MORANGO",
+    "Código": 900,
+    "Descrição": "TRIDENT MORANGO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "901-BOMBOM SONHO DE VALSA",
+    "Código": 901,
+    "Descrição": "BOMBOM SONHO DE VALSA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "902-TABLETE LACTA DIAMENTE NEGRO",
+    "Código": 902,
+    "Descrição": "TABLETE LACTA DIAMENTE NEGRO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "903-STICK OURO BRANCO",
+    "Código": 903,
+    "Descrição": "STICK OURO BRANCO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "904-HALLS MELANCIA",
+    "Código": 904,
+    "Descrição": "HALLS MELANCIA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "905-HALLS MORANGO",
+    "Código": 905,
+    "Descrição": "HALLS MORANGO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "906-RUM MONTILA CARTA BRANCA GF",
+    "Código": 906,
+    "Descrição": "RUM MONTILA CARTA BRANCA GF",
+    "Grupo": "GARRAFAS RUNS"
+  },
+  {
+    "Produto": "907-DOSE RUM MONTILA CARTA BRANCA",
+    "Código": 907,
+    "Descrição": "DOSE RUM MONTILA CARTA BRANCA",
+    "Grupo": "DOSES RUNS"
+  },
+  {
+    "Produto": "908-PICANHA IMPORTADA TRINCHADA",
+    "Código": 908,
+    "Descrição": "PICANHA IMPORTADA TRINCHADA",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "909-BIS XTRA ORIGINAL",
+    "Código": 909,
+    "Descrição": "BIS XTRA ORIGINAL",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "910-CO EXEC MOLHO BRANCO",
+    "Código": 910,
+    "Descrição": "CO EXEC MOLHO BRANCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "911-CO EXEC MOLHO VERMELHO",
+    "Código": 911,
+    "Descrição": "CO EXEC MOLHO VERMELHO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "912-CO MEIO MOLHO BRANCO",
+    "Código": 912,
+    "Descrição": "CO MEIO MOLHO BRANCO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "913-CO MEIO MOLHO VERMELHO",
+    "Código": 913,
+    "Descrição": "CO MEIO MOLHO VERMELHO",
+    "Grupo": "COMBOS ITENS"
+  },
+  {
+    "Produto": "914-BALA MENTOS TUTTI FRUTTI",
+    "Código": 914,
+    "Descrição": "BALA MENTOS TUTTI FRUTTI",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "915-ponta de agulha bovina",
+    "Código": 915,
+    "Descrição": "ponta de agulha bovina",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "916-agua para consumo",
+    "Código": 916,
+    "Descrição": "agua para consumo",
+    "Grupo": "AGUA PARA CONSUMO"
+  },
+  {
+    "Produto": "917-GRAPETTE UVA VERDE 250ML",
+    "Código": 917,
+    "Descrição": "GRAPETTE UVA VERDE 250ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "918-GRAPETTE UVA 250ML",
+    "Código": 918,
+    "Descrição": "GRAPETTE UVA 250ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "919-DELRIO ABACAXI 250ML",
+    "Código": 919,
+    "Descrição": "DELRIO ABACAXI 250ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "920-pilombeta mp",
+    "Código": 920,
+    "Descrição": "pilombeta mp",
+    "Grupo": "PEIXES E FRUTOS DO MAR"
+  },
+  {
+    "Produto": "921-NUGGET DE CAMARAO",
+    "Código": 921,
+    "Descrição": "NUGGET DE CAMARAO",
+    "Grupo": "ENTRADAS E APERITIVOS"
+  },
+  {
+    "Produto": "922-DEL VALLE FRUT UVA 450ML",
+    "Código": 922,
+    "Descrição": "DEL VALLE FRUT UVA 450ML",
+    "Grupo": "SUCOS INDUSTRIALIZADOS"
+  },
+  {
+    "Produto": "923-DEL VALLE FRUT LARANJA 450ML",
+    "Código": 923,
+    "Descrição": "DEL VALLE FRUT LARANJA 450ML",
+    "Grupo": "SUCOS INDUSTRIALIZADOS"
+  },
+  {
+    "Produto": "924-COCA-COLA 2,5L",
+    "Código": 924,
+    "Descrição": "COCA-COLA 2,5L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "925-SKOL LATA 350ML",
+    "Código": 925,
+    "Descrição": "SKOL LATA 350ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "926-H2OH LIMAO 500 ML",
+    "Código": 926,
+    "Descrição": "H2OH LIMAO 500 ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "927-lanche de frango mp",
+    "Código": 927,
+    "Descrição": "lanche de frango mp",
+    "Grupo": "EMBUTIDOS"
+  },
+  {
+    "Produto": "928-SORV PARDAL CREME 5000ML",
+    "Código": 928,
+    "Descrição": "SORV PARDAL CREME 5000ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "929-EISENBAHN LN 355ML",
+    "Código": 929,
+    "Descrição": "EISENBAHN LN 355ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "930-SOL PREMIUM LN 330ML",
+    "Código": 930,
+    "Descrição": "SOL PREMIUM LN 330ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "931-COCA-COLA KS ZERO 290ML",
+    "Código": 931,
+    "Descrição": "COCA-COLA KS ZERO 290ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "932-DEL VALLE FRUT CIT 450ML",
+    "Código": 932,
+    "Descrição": "DEL VALLE FRUT CIT 450ML",
+    "Grupo": "SUCOS INDUSTRIALIZADOS"
+  },
+  {
+    "Produto": "933-SORV QUICK ACAI GRANOLA",
+    "Código": 933,
+    "Descrição": "SORV QUICK ACAI GRANOLA",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "934-PICOLE QUICK ACAI",
+    "Código": 934,
+    "Descrição": "PICOLE QUICK ACAI",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "935-cebolinha mp",
+    "Código": 935,
+    "Descrição": "cebolinha mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "936-TRIDENT CEREJA",
+    "Código": 936,
+    "Descrição": "TRIDENT CEREJA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "937-ENERG MONSTER ZERO LATA 473ML",
+    "Código": 937,
+    "Descrição": "ENERG MONSTER ZERO LATA 473ML",
+    "Grupo": "ENERGETICOS"
+  },
+  {
+    "Produto": "938-gin gordon mp",
+    "Código": 938,
+    "Descrição": "gin gordon mp",
+    "Grupo": "GINS"
+  },
+  {
+    "Produto": "939-MEIA HOSPEDAGEM INDIVIDUAL T",
+    "Código": 939,
+    "Descrição": "MEIA HOSPEDAGEM INDIVIDUAL T",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "940-MEIA HOSPEDAGEM INDIVIDUAL 1A",
+    "Código": 940,
+    "Descrição": "MEIA HOSPEDAGEM INDIVIDUAL 1A",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "941-HOSPEDAGEM DUPLA TERREO",
+    "Código": 941,
+    "Descrição": "HOSPEDAGEM DUPLA TERREO",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "942-HOSPEDAGEM DUPLA 1A",
+    "Código": 942,
+    "Descrição": "HOSPEDAGEM DUPLA 1A",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "943-MEIA HOSPEDAGEM ADIC CRIANCAS",
+    "Código": 943,
+    "Descrição": "MEIA HOSPEDAGEM ADIC CRIANCAS",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "944-MEIA HOSPEDAGEM ADIC ADOL ADUL",
+    "Código": 944,
+    "Descrição": "MEIA HOSPEDAGEM ADIC ADOL ADUL",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "945-MEIA HOSPEDAGEM E CAFE DA MANH",
+    "Código": 945,
+    "Descrição": "MEIA HOSPEDAGEM E CAFE DA MANH",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "946-MEIA HOSPEDAGEM",
+    "Código": 946,
+    "Descrição": "MEIA HOSPEDAGEM",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "947-ALUGUEL PARA EVENTOS",
+    "Código": 947,
+    "Descrição": "ALUGUEL PARA EVENTOS",
+    "Grupo": "EVENTOS"
+  },
+  {
+    "Produto": "948-ADICIONAL ALUGUEL PARA EVENTOS",
+    "Código": 948,
+    "Descrição": "ADICIONAL ALUGUEL PARA EVENTOS",
+    "Grupo": "EVENTOS"
+  },
+  {
+    "Produto": "949-PICOLE QUICK FRUT GROSELHA",
+    "Código": 949,
+    "Descrição": "PICOLE QUICK FRUT GROSELHA",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "950-PICOLE QUICK FRUT LIMAO",
+    "Código": 950,
+    "Descrição": "PICOLE QUICK FRUT LIMAO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "951-COUVERT ARTISTICO",
+    "Código": 951,
+    "Descrição": "COUVERT ARTISTICO",
+    "Grupo": "EVENTOS"
+  },
+  {
+    "Produto": "952-MEIA HOSPEDAGEM DUPLA TERREO",
+    "Código": 952,
+    "Descrição": "MEIA HOSPEDAGEM DUPLA TERREO",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "953-MEIA HOSPEDAGEM DUPLA 1A",
+    "Código": 953,
+    "Descrição": "MEIA HOSPEDAGEM DUPLA 1A",
+    "Grupo": "HOSPEDAGEM"
+  },
+  {
+    "Produto": "954-SKOL 300ML",
+    "Código": 954,
+    "Descrição": "SKOL 300ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "955-BIS XTRA AO LEITE",
+    "Código": 955,
+    "Descrição": "BIS XTRA AO LEITE",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "956-BIS XTRA OREO",
+    "Código": 956,
+    "Descrição": "BIS XTRA OREO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "957-BIS OREO",
+    "Código": 957,
+    "Descrição": "BIS OREO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "958-BIS LEITE",
+    "Código": 958,
+    "Descrição": "BIS LEITE",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "959-BIS LAKA",
+    "Código": 959,
+    "Descrição": "BIS LAKA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "960-BUBBALOO REC LIQ HORTELA",
+    "Código": 960,
+    "Descrição": "BUBBALOO REC LIQ HORTELA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "961-MENTOS PURE FRUIT",
+    "Código": 961,
+    "Descrição": "MENTOS PURE FRUIT",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "962-BOMBOM SERENATA",
+    "Código": 962,
+    "Descrição": "BOMBOM SERENATA",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "963-RONDELLI DE FRANGO",
+    "Código": 963,
+    "Descrição": "RONDELLI DE FRANGO",
+    "Grupo": "MASSAS ARTESANAIS"
+  },
+  {
+    "Produto": "964-EXEC RONDELLI DE FRANGO",
+    "Código": 964,
+    "Descrição": "EXEC RONDELLI DE FRANGO",
+    "Grupo": "MASSAS ARTESANAIS"
+  },
+  {
+    "Produto": "965-ENERG MONSTER MANGO LATA 269ML",
+    "Código": 965,
+    "Descrição": "ENERG MONSTER MANGO LATA 269ML",
+    "Grupo": "ENERGETICOS"
+  },
+  {
+    "Produto": "966-tripa bovina mp",
+    "Código": 966,
+    "Descrição": "tripa bovina mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "967-bucho bovino mp",
+    "Código": 967,
+    "Descrição": "bucho bovino mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "968-alcatra mp",
+    "Código": 968,
+    "Descrição": "alcatra mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "969-PICOLE QUICK EXC PISTACHE",
+    "Código": 969,
+    "Descrição": "PICOLE QUICK EXC PISTACHE",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "970-SORV NINHO GANACHE CHOCOLATE",
+    "Código": 970,
+    "Descrição": "SORV NINHO GANACHE CHOCOLATE",
+    "Grupo": "DELICIAS"
+  },
+  {
+    "Produto": "971-SORV NINHO MORANGO",
+    "Código": 971,
+    "Descrição": "SORV NINHO MORANGO",
+    "Grupo": "DELICIAS"
+  },
+  {
+    "Produto": "972-SORV NINHO ABACAXI",
+    "Código": 972,
+    "Descrição": "SORV NINHO ABACAXI",
+    "Grupo": "DELICIAS"
+  },
+  {
+    "Produto": "973- cachaca pitu mp",
+    "Código": 973,
+    "Descrição": " cachaca pitu mp",
+    "Grupo": "CACHACAS"
+  },
+  {
+    "Produto": "974-LANCHE",
+    "Código": 974,
+    "Descrição": "LANCHE",
+    "Grupo": "ATACADO"
+  },
+  {
+    "Produto": "975-milho em grao mp",
+    "Código": 975,
+    "Descrição": "milho em grao mp",
+    "Grupo": "SUINOS E DERIVADOS"
+  },
+  {
+    "Produto": "976-copo americano",
+    "Código": 976,
+    "Descrição": "copo americano",
+    "Grupo": "COPOS E TACAS"
+  },
+  {
+    "Produto": "977-SPRITE ABSOLUT SLEEK 269ML",
+    "Código": 977,
+    "Descrição": "SPRITE ABSOLUT SLEEK 269ML",
+    "Grupo": "BEBIDAS MISTAS"
+  },
+  {
+    "Produto": "978-GUARANA ANTARCTICA ZERO 2L",
+    "Código": 978,
+    "Descrição": "GUARANA ANTARCTICA ZERO 2L",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "979-PICOLE PARDAL VITA WHEY CHOC",
+    "Código": 979,
+    "Descrição": "PICOLE PARDAL VITA WHEY CHOC",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "980-PICOLE PARDAL VITA WHEY AMENDO",
+    "Código": 980,
+    "Descrição": "PICOLE PARDAL VITA WHEY AMENDO",
+    "Grupo": "PICOLES"
+  },
+  {
+    "Produto": "981-VINHO AURORA PETIT VERDOT GF",
+    "Código": 981,
+    "Descrição": "VINHO AURORA PETIT VERDOT GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "982-VINHO CHI S HELENA GF",
+    "Código": 982,
+    "Descrição": "VINHO CHI S HELENA GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "983-VINHO CHI GATO NEGRO MERLOT GF",
+    "Código": 983,
+    "Descrição": "VINHO CHI GATO NEGRO MERLOT GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "984-VINHO PERGOLA SUAVE GF",
+    "Código": 984,
+    "Descrição": "VINHO PERGOLA SUAVE GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "985-VINHO PORTUGUES PERIQUITA GF",
+    "Código": 985,
+    "Descrição": "VINHO PORTUGUES PERIQUITA GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "986-VINHO CHI CASILLLE D MERLOT GF",
+    "Código": 986,
+    "Descrição": "VINHO CHI CASILLLE D MERLOT GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "987-VINHO CHI CASILLLE D CAR GF",
+    "Código": 987,
+    "Descrição": "VINHO CHI CASILLLE D CAR GF",
+    "Grupo": "GARRAFAS VINHOS"
+  },
+  {
+    "Produto": "988-CAJUINA SAO GERALDO 350ML",
+    "Código": 988,
+    "Descrição": "CAJUINA SAO GERALDO 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "989-BUBBALOO BALA AZED MORANGO",
+    "Código": 989,
+    "Descrição": "BUBBALOO BALA AZED MORANGO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "990-EISENBAHN LATA 350ML",
+    "Código": 990,
+    "Descrição": "EISENBAHN LATA 350ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "991-CAJUINA SAO GERALDO ZERO 350ML",
+    "Código": 991,
+    "Descrição": "CAJUINA SAO GERALDO ZERO 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "992-BALA MENTOS PURE MINT",
+    "Código": 992,
+    "Descrição": "BALA MENTOS PURE MINT",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "993-DELICIA DE CHOCOLATE NINHO",
+    "Código": 993,
+    "Descrição": "DELICIA DE CHOCOLATE NINHO",
+    "Grupo": "DELICIAS"
+  },
+  {
+    "Produto": "994-DELICIA DE MORANGO",
+    "Código": 994,
+    "Descrição": "DELICIA DE MORANGO",
+    "Grupo": "DELICIAS"
+  },
+  {
+    "Produto": "995-molho barbecue",
+    "Código": 995,
+    "Descrição": "molho barbecue",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "996-DELICIA NINHO MORANGO CHOCOLAT",
+    "Código": 996,
+    "Descrição": "DELICIA NINHO MORANGO CHOCOLAT",
+    "Grupo": "DELICIAS"
+  },
+  {
+    "Produto": "997-carne industrial mp",
+    "Código": 997,
+    "Descrição": "carne industrial mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "998-BOMBOM LACTA OREO",
+    "Código": 998,
+    "Descrição": "BOMBOM LACTA OREO",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "999-COPO 51 OURO",
+    "Código": 999,
+    "Descrição": "COPO 51 OURO",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "1000-COPO 51 PRATA",
+    "Código": 1000,
+    "Descrição": "COPO 51 PRATA",
+    "Grupo": "DOSES CACHACAS"
+  },
+  {
+    "Produto": "1021-melancia mp",
+    "Código": 1021,
+    "Descrição": "melancia mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "1022-SKOL BEATS RED MIX LN 269ML",
+    "Código": 1022,
+    "Descrição": "SKOL BEATS RED MIX LN 269ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "1023-batata doce mp",
+    "Código": 1023,
+    "Descrição": "batata doce mp",
+    "Grupo": "HORTIFRUTI"
+  },
+  {
+    "Produto": "1024-FANTA MISTERIO CHUCKY LT 350ML",
+    "Código": 1024,
+    "Descrição": "FANTA MISTERIO CHUCKY LT 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "1025-figado bovino mp",
+    "Código": 1025,
+    "Descrição": "figado bovino mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "1026-sangria mp",
+    "Código": 1026,
+    "Descrição": "sangria mp",
+    "Grupo": "CARNES BOVINAS"
+  },
+  {
+    "Produto": "1027-desengripante 300ml",
+    "Código": 1027,
+    "Descrição": "desengripante 300ml",
+    "Grupo": "MATERIAIS DE LIMPEZA"
+  },
+  {
+    "Produto": "1028-lampara led",
+    "Código": 1028,
+    "Descrição": "lampara led",
+    "Grupo": "MATERIAIS DA POUSADA"
+  },
+  {
+    "Produto": "1029-BALA MENTOS FRUTA 14P",
+    "Código": 1029,
+    "Descrição": "BALA MENTOS FRUTA 14P",
+    "Grupo": "DOCES E BALAS"
+  },
+  {
+    "Produto": "1030-SORV PARDAL SUNDAE MORAN 180ML",
+    "Código": 1030,
+    "Descrição": "SORV PARDAL SUNDAE MORAN 180ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "1031-SORV PARDAL SUNDAE CHOC 180ML",
+    "Código": 1031,
+    "Descrição": "SORV PARDAL SUNDAE CHOC 180ML",
+    "Grupo": "SORVETES"
+  },
+  {
+    "Produto": "1032-SODA LIMONADA LT 350ML",
+    "Código": 1032,
+    "Descrição": "SODA LIMONADA LT 350ML",
+    "Grupo": "REFRIGERANTES"
+  },
+  {
+    "Produto": "1033-SPATEN LN 355ML",
+    "Código": 1033,
+    "Descrição": "SPATEN LN 355ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "1034-CORONA ZERO LN 300ML",
+    "Código": 1034,
+    "Descrição": "CORONA ZERO LN 300ML",
+    "Grupo": "CERVEJAS ZERO ALCOOL"
+  },
+  {
+    "Produto": "1041-STELLA ARTOIS PURE G LN 330ML",
+    "Código": 1041,
+    "Descrição": "STELLA ARTOIS PURE G LN 330ML",
+    "Grupo": "CERVEJAS"
+  },
+  {
+    "Produto": "1073-azeitona mp",
+    "Código": 1073,
+    "Descrição": "AZEITONA",
+    "Grupo": "SECOS E MERCEARIA"
+  },
+  {
+    "Produto": "1090-capa de contra file mp",
+    "Código": 1090,
+    "Descrição": "capa de contra file mp",
+    "Grupo": "CARNES BOVINAS"
+  }
+]
